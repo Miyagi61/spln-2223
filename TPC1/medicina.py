@@ -10,7 +10,7 @@
 # VID -> Vid.- pals
 
 import re
-
+import json
 texto = open('medicina.xml', 'r').read()
 
 def remove_header_footer(texto):
@@ -23,7 +23,7 @@ def remove_header_footer(texto):
 texto = remove_header_footer(texto)
 
 def marcaE(texto):
-    texto = re.sub(r'<text.* font="3"><b>\s*(\d+.*)</b></text>', r'###C \1', texto)
+    texto = re.sub(r'<text.* font="3"><b>\s*(\d+\s+.*)</b></text>', r'###C \1', texto)
     texto = re.sub(r'<text.* font="8"><b>\s*(.*)\s*</b></text>', r'###R \1', texto)
     texto = re.sub(r'<text.* font="3"><b>\s*(\S.*)</b></text>', r'###R \1', texto)
     texto = re.sub(r'<text.* font="11"><b>\s*(\S.*)</b></text>', r'###R \1', texto)
@@ -34,8 +34,8 @@ texto = marcaE(texto)
 def limpeza(texto):
     texto = re.sub(r'<text.* font="4">.*</text>', r'', texto)
     texto = re.sub(r'<text.* font="3">.*</text>', r'', texto)
-    texto = re.sub(r'<text.* font="\d*">\s*</text>', r'', texto)
-    texto = re.sub(r'<text.* font="\d*"><b>\s*</b></text>', r'', texto)
+    texto = re.sub(r'<text.* font="\d*">\s*</text>\n', r'', texto)
+    texto = re.sub(r'<text.* font="\d*"><b>\s*</b></text>\n', r'', texto)
     return texto
 
 texto = limpeza(texto)
@@ -70,7 +70,7 @@ def marcaVid(texto):
 texto = marcaVid(texto)
 
 def limpaFontSpec(texto):
-    texto = re.sub(r'<fontspec.*', r'', texto)
+    texto = re.sub(r'<fontspec.*\n', r'', texto)
     return texto
 
 texto = limpaFontSpec(texto)
@@ -110,10 +110,31 @@ texto = elementosQuimicos(texto)
 def ultimoCaso(texto):
     texto = re.sub(r'<text.* font="0">\s*(\S.*)</text>', r'\1', texto)
     texto = re.sub(r'###R\s*\n', r'', texto)
-    texto = re.sub(r'</pdf2xml>', r'', texto)
+    texto = re.sub(r'</pdf2xml>\s*', r'', texto)
     return texto
 
 texto = ultimoCaso(texto)
+
+def troca_C_para_R(texto):
+    texto1 = ""
+    
+    texto = re.sub(r'###C (\d+)\s*\n(.*)', r'###C \1 \2', texto)
+
+    while texto != texto1:
+        texto1 = texto
+        texto = re.sub(r'###C (.*)\s*###R (.*)', r'###C \1\2', texto)
+        if texto == texto1:
+            texto = re.sub(r'###C (\d+)\s*\n(.*)', r'###C \1 \2', texto)
+    
+
+    texto = re.sub(r'###C (.*)\n([^&@]*\n)###R', r'###C \1\2', texto)
+    texto = re.sub(r'###C (.*)\n[^&]([fm])',r'###C \1 \2', texto)
+
+    texto = re.sub(r'###C (.*)\n([^&]*)?\n@', r'###C \1\n& \2\n@', texto)
+    #texto = re.sub(r'###C \d+\s*\n', r'###C \1\2', texto)
+    return texto
+
+texto = troca_C_para_R(texto)
 
 # dicionario
 lista_texto = texto.split('###')[1:]
@@ -123,19 +144,23 @@ dic = {"R": {}, "C": {}}
 for entrada in lista_texto:
     if entrada[0] == 'R':
         entrada = entrada.split('\n')
-        dic['R'][entrada[0][2:]] = entrada[1:]
+        dic['R'][entrada[0][2:].strip()] = "".join(entrada[1:])
     else:
         linguas = entrada.split('@')
-        areas = linguas[0].split('&')[1:]
+        areas = [elem.strip() for elem in linguas[0].split('&')[1:]]
         titulo = linguas[0].split('&')[0]
         linguas = linguas[1:]
-        numero = titulo.split(' ')[0]
-        nome = titulo.split(' ')[1:-1]
-        genero = titulo.split(' ')[-1]
-        dic['C'][numero] = {'nome': nome,'genero' : genero,'areas': areas, 'linguas': linguas}
+        numero = titulo.split(' ')[1]
+        nome = "".join(titulo.split(' ')[2:-1])
+        genero = "".join(titulo.split(' ')[-1])
+        dic['C'][numero] = {'nome': nome,'genero' :[x.strip() for x in genero] ,'areas': areas, 'linguas': linguas.strip()}
+
+
+print("R: "+str(len(dic['R'])),"C:"+ str(len(dic['C'])))
 
 file = open('medicina.txt', 'w')
 
 file.write(texto)
 
-print(dic)
+file2 = open('medicina.json', 'w',encoding='utf8')
+json.dump(dic, file2,ensure_ascii=False)
