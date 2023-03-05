@@ -1,0 +1,28 @@
+DicMed =
+  D_ec: ec*
+  D_er: er*
+
+er = 
+    denom: termo
+    ref: termo
+
+ec = 
+    indice: N
+    termoGA: str
+    cat: {m,f,...}
+    areas: termo*
+    sinGA: termo*
+    varGA: termo*
+    traduc: (Lingua -> Termo*)*
+    notaGA: txt
+
+termo =
+    str
+    (id -> val)
+
+termo...atrib (
+    (m) 
+    [pop.] [cult.]
+    [br] [pt]
+)
+

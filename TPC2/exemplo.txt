@@ -1,0 +1,10 @@
+Anatomía
+@ ga : 
+- á 
+    + genero : f 
+
+@ pt :
+- bom dia
+
+
+@ ling item LINHA_B item 

@@ -1,0 +1,21 @@
+mini relatorio do tpc, markdown
+
+1)
+    Representacao semantica (pdf arrumado), associado à lista (GA -> info) - tpc1
+
+    passar para
+
+    RS,
+    dicionario medico abstrato
+    conceito,
+    info do conceito,
+    traducoes,
+    propriedades dos termos
+    galego com as outras linguas
+    (indice, area, traducoes)
+
+    passar para
+
+    Linguagem de Dicionarios em sintaxe.txt
+    Escrever Gramatica
+    Parser associado
