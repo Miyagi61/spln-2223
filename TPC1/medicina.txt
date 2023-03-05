@@ -135,7 +135,7 @@ abdução
 separação
 @ la
 abductio
-.Nota.- Evítese “abducción”.
+...Nota.- Evítese “abducción”.
 ###R aberración cromosómica      
 Vid.- anomalía cromosómica
 
@@ -674,7 +674,7 @@ acne vulgaris
 acne
 ;
 acne vulgar
-.  Nota.- Evítese “acné”.
+...  Nota.- Evítese “acné”.
 
 ###R *acné
 Vid.- acne
@@ -714,9 +714,9 @@ accommodation
 acomodação
  
  
-.Nota.- Designa o ‘proceso de adaptación que 
-.  realizan o músculo ciliar e o cristalino para 
-.  axustar o ollo á visión a distintas distancias’.
+...Nota.- Designa o ‘proceso de adaptación que 
+...  realizan o músculo ciliar e o cristalino para 
+...  axustar o ollo á visión a distintas distancias’.
 ###C 53  acomodación      f
 & Fisioloxía
 @ es
@@ -727,11 +727,11 @@ accommodation
 acomodação
  
  
-.Nota.- Designa o ‘conxunto de modificacións 
-.  somáticas ou fisiolóxicas que un organismo 
-.  presenta como adaptación ao medio en que 
-.  vive e que non se transmiten por medio da 
-.  herdanza’
+...Nota.- Designa o ‘conxunto de modificacións 
+...  somáticas ou fisiolóxicas que un organismo 
+...  presenta como adaptación ao medio en que 
+...  vive e que non se transmiten por medio da 
+...  herdanza’
 ###C 54  acondroplasia      f
 & Patoloxías
 @ es
@@ -1026,9 +1026,9 @@ adenectomía
 adenectomy
 @ pt
 adenectomia
-.   Nota.- Designa a ‘extirpación cirúrxica dunha 
-.  glándula ou ganglio’. Cfr. con 
-.  “adenoidectomía”.
+...   Nota.- Designa a ‘extirpación cirúrxica dunha 
+...  glándula ou ganglio’. Cfr. con 
+...  “adenoidectomía”.
 ###C 78  adenilciclase      f
 & Bioquímica
 @ es
@@ -1072,8 +1072,8 @@ adenoidectomía
 adenoidectomy
 @ pt
 adenoidectomia
-.   Nota.- Designa a ‘extirpación das vexetacións 
-.  adenoides’. Cfr. con “adenectomía”.
+...   Nota.- Designa a ‘extirpación das vexetacións 
+...  adenoides’. Cfr. con “adenectomía”.
 
 ###R adenoma do conduto biliar
 Vid.- colanxioma
@@ -1406,11 +1406,11 @@ agammaglobulinemia
 agammaglobulinemia
 @ pt
 agamaglobulinemia
-.  Nota.- Designa un ‘estado de deficiencia 
-.  inmunolóxica caracterizado por concentración 
-.  moi baixa de todas as clases de globulinas 
-.  gamma no sangue’. Cfr. con 
-.  “hipogammaglobulinemia”.
+...  Nota.- Designa un ‘estado de deficiencia 
+...  inmunolóxica caracterizado por concentración 
+...  moi baixa de todas as clases de globulinas 
+...  gamma no sangue’. Cfr. con 
+...  “hipogammaglobulinemia”.
 ###C 108  aglutinación      f
 & Probas complementarias        
 & 
@@ -1497,7 +1497,7 @@ agranulocitopenia
 agranulocitose
 ;
 neutropenia maligna
-.   Nota.- Cfr. con “granulocitopenia”.
+...   Nota.- Cfr. con “granulocitopenia”.
 ###C 115  agresividade      f
 & Semioloxía
 @ es
@@ -2337,8 +2337,8 @@ urine test
 análise de urina
 ;
 exame de urina 
-.Nota.- Evítese “análise de ouriños” e “análise 
-.  de mexo”.
+...Nota.- Evítese “análise de ouriños” e “análise 
+...  de mexo”.
 ###C 185  analista      s
 & Organización sanitaria
 @ es
@@ -2362,10 +2362,10 @@ analgia
 analgesia
 ;
 analgia
-.Nota.- Designa o ‘estado en que os estímulos 
-.  nociceptivos se perciben pero non se 
-.  interpretan como dolorosos’. Cfr. con 
-.  “anestesia”.
+...Nota.- Designa o ‘estado en que os estímulos 
+...  nociceptivos se perciben pero non se 
+...  interpretan como dolorosos’. Cfr. con 
+...  “anestesia”.
 ###C 187  analxésico      m
 & Farmacoloxía
 @ es
@@ -2719,10 +2719,10 @@ anestesia
 anesthesia
 @ pt
 anestesia
-.Nota.- Designa o ‘estado caracterizado pola 
-.  abolición da sensibilidade, fundamentalmente 
-.  por causa de depresión farmacolóxica da 
-.  función nerviosa’. Cfr. con “analxesia”.
+...Nota.- Designa o ‘estado caracterizado pola 
+...  abolición da sensibilidade, fundamentalmente 
+...  por causa de depresión farmacolóxica da 
+...  función nerviosa’. Cfr. con “analxesia”.
 
 ###R anestesia
 Vid.- anestesioloxía
@@ -3367,10 +3367,10 @@ anticipación
 anticipation
 @ pt
 antecipação
-.Nota.- Designa a ‘capacidade do individuo 
-.  para adaptarse aos acontecementos e converter 
-.  os feitos futuros en feitos presentes da 
-.  conciencia’.
+...Nota.- Designa a ‘capacidade do individuo 
+...  para adaptarse aos acontecementos e converter 
+...  os feitos futuros en feitos presentes da 
+...  conciencia’.
 ###C 271  anticipación      f
 & Xenética
 @SIN.- anticipación xenética
@@ -3386,10 +3386,10 @@ genetic anticipation
 antecipação
 ;
 antecipação genética
-.  Nota.- Designa a ‘tendencia de certas 
-.  enfermidades hereditarias a apareceren 
-.  progresivamente a idade máis temperá nas 
-.  xeracións sucesivas’.
+...  Nota.- Designa a ‘tendencia de certas 
+...  enfermidades hereditarias a apareceren 
+...  progresivamente a idade máis temperá nas 
+...  xeracións sucesivas’.
 
 ###R anticipación xenética
 Vid.- anticipación
@@ -4148,7 +4148,7 @@ antitusígeno
 antitussive
 @ pt
 antitússico
-.   Nota.- Evítese “antitusivo”.
+...   Nota.- Evítese “antitusivo”.
 ###C 326  antivaricoso      m
 & Farmacoloxía
 @ es
@@ -5066,9 +5066,9 @@ arcada alveolar; arco alveolar
 arcus alveolaris
  
  
-.Nota.- En ocasións, “arco dentario” emprégase 
-.  —inapropiadamente— como forma sinónima 
-.  deste concepto
+...Nota.- En ocasións, “arco dentario” emprégase 
+...  —inapropiadamente— como forma sinónima 
+...  deste concepto
 ###C 396  arco aórtico      m
 & Anatomía
 @VAR.- arco da aorta
@@ -5086,7 +5086,7 @@ arco aórtico
 crossa da aorta
 @ la
 arcus aortae
-.   Nota.- Evítese “caxato da aorta”.
+...   Nota.- Evítese “caxato da aorta”.
 ###C 397  arco cigomático      m
 & Anatomía
 @ es
@@ -5138,7 +5138,7 @@ arch of azygos vein
 arco da veia ázigos
 @ la
 arcus venae azygos
-.  Nota.- Evítese “caxato da vea ácigos”.
+...  Nota.- Evítese “caxato da vea ácigos”.
 
 ###R arco da vea ázigos
 Vid.- arco da 
@@ -6290,7 +6290,7 @@ a
       rticulação selar
 @ la
 articulatio sellaris
-.   Nota.- Evítese “articulación sellar”.
+...   Nota.- Evítese “articulación sellar”.
 
 ###R articulación selar 
 Vid.- articulación por encaixe recíproco
@@ -6604,7 +6604,7 @@ atención domiciliaria
 home care
 @ pt
 assistência domiciliar
-.  Nota.- Cfr. con “hospitalización a domicilio”
+...  Nota.- Cfr. con “hospitalización a domicilio”
 
 ###R asistencia especializada
 Vid.- atención especializada
@@ -7247,8 +7247,8 @@ autoinjerto
 autograft
 @ pt
 auto-enxerto
-.Nota.- Designa un ‘enxerto tomado do corpo 
-.  do mesmo doente’. Cfr. con “autotransplante”.
+...Nota.- Designa un ‘enxerto tomado do corpo 
+...  do mesmo doente’. Cfr. con “autotransplante”.
 
 ###R autoexame das mamas      
 Vid.- autoexploración mamaria
@@ -7386,10 +7386,10 @@ auto-plastia
 autotransplante
 ;
 auto-transplante
-.Nota.- Designa a ‘operación de tomar unha 
-.  porción de tecido dunha parte do corpo e 
-.  enxertalo noutra parte do mesmo corpo’. 
-.  Cfr. con “autoenxerto”.
+...Nota.- Designa a ‘operación de tomar unha 
+...  porción de tecido dunha parte do corpo e 
+...  enxertalo noutra parte do mesmo corpo’. 
+...  Cfr. con “autoenxerto”.
 
 ###R auxiliar de clínica
 Vid.- auxiliar 
@@ -7813,7 +7813,7 @@ ballism
 ballismus
 @ pt
 balismo
-.  Nota.- Cfr. con “corea”.
+...  Nota.- Cfr. con “corea”.
 ###C 598  balneoterapia      f
 & Terapéutica
 @ es
@@ -8457,8 +8457,8 @@ bolo
 bole
 @ pt
 bolo
-.Nota.- Designa unha ‘pílula maior ca as 
-.  ordinarias’.
+...Nota.- Designa unha ‘pílula maior ca as 
+...  ordinarias’.
 ###C 651  bolo      m
 & Farmacoloxía
 @ es
@@ -8467,9 +8467,9 @@ bolo
 bole
 @ pt
 bolo
-.Nota.- Designa un ‘material de contraste ou 
-.  un medicamento inxectado con rapidez no 
-.  aparello circulatorio por unha embolada’.
+...Nota.- Designa un ‘material de contraste ou 
+...  un medicamento inxectado con rapidez no 
+...  aparello circulatorio por unha embolada’.
 ###C 652  bolo histérico      m
 & Semioloxía
 @SIN.- bolo na gorxa; globo histérico; 
@@ -9370,9 +9370,9 @@ calmante
 calmative
 @ pt
 calmante
-.Nota.- Designa un ‘tipo de fármaco que 
-.  mitiga a excitación, a irritación ou a dor’. 
-.  Cfr. con “tranquilizante” e “sedante”.
+...Nota.- Designa un ‘tipo de fármaco que 
+...  mitiga a excitación, a irritación ou a dor’. 
+...  Cfr. con “tranquilizante” e “sedante”.
 ###C 722  calo óseo      m
 & Anatomía patolóxica
 @ es
@@ -9671,11 +9671,11 @@ neoplasia maligna
 tumor 
  
       maligno
-.Nota.- Designa un ‘crecemento descontrolado 
-.  de células anormais no corpo, que se acaban 
-.  estendendo e difundindo fóra das zonas onde 
-.  estaban inicialmente situadas’’. Cfr. con 
-.  “tumor”.
+...Nota.- Designa un ‘crecemento descontrolado 
+...  de células anormais no corpo, que se acaban 
+...  estendendo e difundindo fóra das zonas onde 
+...  estaban inicialmente situadas’’. Cfr. con 
+...  “tumor”.
 ###C 743  candeíña      f
 & Farmacoloxía
 @ es
@@ -9826,8 +9826,8 @@ capsule
 cápsula
 @ la
 capsula
-.Nota.- Designa a ‘envoltura membranosa ou 
-.  fibrosa que rodea un órgano’.
+...Nota.- Designa a ‘envoltura membranosa ou 
+...  fibrosa que rodea un órgano’.
 ###C 754  cápsula      f
 & Farmacoloxía
 @ es
@@ -9836,9 +9836,9 @@ cápsula
 capsule
 @ pt
 cápsula
-.Nota.- Designa a ‘forma farmaceutica na que 
-.  o principio activo se encerra nun envoltorio de 
-.  xelatina soluble’.
+...Nota.- Designa a ‘forma farmaceutica na que 
+...  o principio activo se encerra nun envoltorio de 
+...  xelatina soluble’.
 ###C 755  cápsula articular      f
 & Anatomía
 @ es
@@ -9969,8 +9969,8 @@ face
 facies
 @ la
 facies
-.Nota.- Designa a ‘parte anterior da cabeza’. 
-.  Cfr. con “facies”.
+...Nota.- Designa a ‘parte anterior da cabeza’. 
+...  Cfr. con “facies”.
 
 ###R cara 
 Vid.- face
@@ -10136,9 +10136,9 @@ carcinomatosis
 carcinomatosis
 @ pt
 carcinomatose
-.Nota.- Designa o ‘estado producido pola 
-.  diseminación polo organismo dun único 
-.  carcinoma’. Cfr. con “carcinose”.
+...Nota.- Designa o ‘estado producido pola 
+...  diseminación polo organismo dun único 
+...  carcinoma’. Cfr. con “carcinose”.
 ###C 776  carcinose      f
 & Etiopatoxenia
 @ es
@@ -10147,9 +10147,9 @@ carcinosis
 carcinosis
 @ pt
 carcinose
-.  Nota.- Designa o ‘desenvolvemento de 
-.  múltiples carcinomas no organismo’. Cfr. con 
-.  “carcinomatose”.
+...  Nota.- Designa o ‘desenvolvemento de 
+...  múltiples carcinomas no organismo’. Cfr. con 
+...  “carcinomatose”.
 ###C 777  carcinoxénese      f
 & Etiopatoxenia
 @ es
@@ -10271,9 +10271,9 @@ cardiotomía
 cardiotomy
 @ pt
 cardiotomia
-.  Nota.- Designa a ‘intervención na que se 
-.  incide no extremo cardial do estómago ou no 
-.  orificio cardial’.
+...  Nota.- Designa a ‘intervención na que se 
+...  incide no extremo cardial do estómago ou no 
+...  orificio cardial’.
 ###C 788  cardiotomía      f
 & Terapéutica
 @ es
@@ -10282,8 +10282,8 @@ cardiotomía
 cardiotomy
 @ pt
 cardiotomia
-.Nota.- Designa a ‘operación na que se realiza 
-.  unha incisión no corazón’.
+...Nota.- Designa a ‘operación na que se realiza 
+...  unha incisión no corazón’.
 ###C 789  cardioversión      f
 & Terapéutica
 @ es
@@ -10407,7 +10407,7 @@ cartilage
 cartilagem
 @ la
 cartilago
-.Nota.- Evítese “cartílago”.
+...Nota.- Evítese “cartílago”.
 ###C 799  cartilaxe aritenoide      f
 & Anatomía
 @ es
@@ -11132,9 +11132,9 @@ celdilla
 cell
 @ pt
 célula
-.Nota.- Designa a ‘pequena cavidade ósea ou 
-.  seo que se agrupa dunha forma parecida a un 
-.  favo de abellas’.
+...Nota.- Designa a ‘pequena cavidade ósea ou 
+...  seo que se agrupa dunha forma parecida a un 
+...  favo de abellas’.
 ###C 853  celador -ra      s
 & Organización sanitaria
 @ es
@@ -11193,8 +11193,8 @@ cell
 célula
 @ la
 cellula
-.Nota.- Designa a ‘unidade básica do corpo a 
-.  nivel vivente, estrutural e funcional’.
+...Nota.- Designa a ‘unidade básica do corpo a 
+...  nivel vivente, estrutural e funcional’.
 
 ###R célula alveolar 
 Vid.- pneumocito
@@ -12369,10 +12369,10 @@ cirugía
 surgery
 @ pt
 cirurgia
-.Nota.- Designa a ‘rama da medicina que se 
-.  ocupa do tratamento das enfermidades, 
-.  lesións e deformidades por medio de 
-.  operacións ou manipulacións’.
+...Nota.- Designa a ‘rama da medicina que se 
+...  ocupa do tratamento das enfermidades, 
+...  lesións e deformidades por medio de 
+...  operacións ou manipulacións’.
 ###C 947  cirurxía      f
 & Terapéutica
 @ es
@@ -12381,9 +12381,9 @@ cirugía
 surgery
 @ pt
 cirurgia
-.Nota.- Designa o ‘conxunto de procedementos 
-.  que integran unha operación ou intervención 
-.  cirúrxica’.
+...Nota.- Designa o ‘conxunto de procedementos 
+...  que integran unha operación ou intervención 
+...  cirúrxica’.
 ###C 948  cirurxía cardiovascular      f
 & Organización sanitaria
 @ es
@@ -12471,7 +12471,7 @@ cistectomía
 cystectomy
 @ pt
 cistectomia
-.Nota.- Designa a ‘extirpación dun quiste’.
+...Nota.- Designa a ‘extirpación dun quiste’.
 ###C 958  cistectomía      f
 & Terapéutica
 @ es
@@ -12480,8 +12480,8 @@ cistectomía
 cystectomy
 @ pt
 cistectomia
-.Nota.- Designa a ‘resección da vexiga 
-.  urinaria’.
+...Nota.- Designa a ‘resección da vexiga 
+...  urinaria’.
 ###C 959  cisteína      f
 & Bioquímica
 @SIN.- Cys (sb)
@@ -12735,9 +12735,9 @@ cytodiagnosis
 citodiagnóstico
 ;
 citologia
-.Nota.- Designa o ‘método diagnóstico 
-.  consistente na obtención e exame de células 
-.  dun tecido determinado’.
+...Nota.- Designa o ‘método diagnóstico 
+...  consistente na obtención e exame de células 
+...  dun tecido determinado’.
 ###C 982  citoloxía      f
 & Termos xerais
 @ es
@@ -12746,8 +12746,8 @@ citología
 cytology
 @ pt
 citologia
-.Nota.- Designa a ‘ciencia que ten por obxecto 
-.  o estudo das células’.
+...Nota.- Designa a ‘ciencia que ten por obxecto 
+...  o estudo das células’.
 ###C 983  citomegalovirus      m
 & Etiopatoxenia
 @SIN.- virus citomegálico; CMV (sg)
@@ -12893,7 +12893,7 @@ climacteric
 climacterium
 @ pt
 climaterio
-.Nota.- Cfr. con “menopausa”.
+...Nota.- Cfr. con “menopausa”.
 
 ###R climaterio masculino      
 Vid.- andropausa
@@ -13488,7 +13488,7 @@ collarín cervical
 cervical collar
 @ pt
 colar cervical
-.Nota.- Evítese “colariño”.
+...Nota.- Evítese “colariño”.
 
 ###R *colariño
 Vid.- colar ortopédico
@@ -13717,7 +13717,7 @@ colgajo
 flap
 @ pt
 retalho
-.Nota.- Evítese “colgaxo”.
+...Nota.- Evítese “colgaxo”.
 
 ###R *colgaxo
 Vid.- colgallo
@@ -14199,8 +14199,8 @@ midline
       myelotomy
 @ pt
 comissurotomia
-.Nota.- Designa a ‘desconexión cirúrxica dos 
-.  hemisferios cerebrais’.
+...Nota.- Designa a ‘desconexión cirúrxica dos 
+...  hemisferios cerebrais’.
 
 ###R comisurotomía      
 Vid.- comisurotomía mitral
@@ -14225,9 +14225,9 @@ comissurotomia
 comissurotomia 
  
       mitral
-.Nota.- Designa a ‘apertura do orificio da 
-.  válvula mitral estreitado para alivia-la estenose 
-.  mitral’.
+...Nota.- Designa a ‘apertura do orificio da 
+...  válvula mitral estreitado para alivia-la estenose 
+...  mitral’.
 ###C 1098  complemento      m
 & Bioquímica
 @ es
@@ -14730,7 +14730,7 @@ consanguinidad
 inbreeding
 @ pt
 consanguinidade
-.Nota.- Evítese “cosanguinidade”.
+...Nota.- Evítese “cosanguinidade”.
 
 ###R consello xenético      
 Vid.- aconsellamento xenético
@@ -14805,8 +14805,8 @@ consulta
 consultation
 @ pt
 consulta
-.Nota.- Designa o ‘acto médico de estudar e 
-.  diagnosticar un paciente’.
+...Nota.- Designa o ‘acto médico de estudar e 
+...  diagnosticar un paciente’.
 ###C 1148  consulta      f
 & Organización sanitaria
 @VAR.- consultorio (m)
@@ -14818,8 +14818,8 @@ consultorio
 consulting room
 @ pt
 consultório
-.Nota.- Designa o ‘lugar onde o médico atende 
-.  o paciente’.
+...Nota.- Designa o ‘lugar onde o médico atende 
+...  o paciente’.
 
 ###R consultorio   
 Vid.- consulta
@@ -15224,9 +15224,9 @@ cordotomy
 cordotomia
 ;
 tractotomia
-.Nota.- Designa a ‘sección do cordón 
-.  anterolateral da medula, nos casos de dores 
-.  intolerables rebeldes a todo tratamento’.
+...Nota.- Designa a ‘sección do cordón 
+...  anterolateral da medula, nos casos de dores 
+...  intolerables rebeldes a todo tratamento’.
 ###C 1180  cordotomía      f
 & Terapéutica
 @ es
@@ -15239,7 +15239,7 @@ chordotomy
 cordotomy
 @ pt
 cordotomia
-.Nota.- Designa a ‘sección dunha corda vocal’.
+...Nota.- Designa a ‘sección dunha corda vocal’.
 ###C 1181  corea      f
 & Semioloxía
 @ es
@@ -15248,7 +15248,7 @@ corea
 chorea
 @ pt
 coréia
-.Nota.- Cfr. con “balismo”.
+...Nota.- Cfr. con “balismo”.
 
 ###R corectomía
 Vid.- iridectomía
@@ -15741,12 +15741,12 @@ hydrocortisone
 cortisol
 ;
 hidrocortisona
-.Nota.- Optamos por non incluír 
-.  “hidrocortisona” como sinónimo, xa que o 
-.  prefixo “hidro-” ten unicamente o valor de 
-.  ‘auga’; pola contra, tanto o sufixo “-ol” coma 
-.  o prefixo “hidroxi-” apuntan á presenza do 
-.  grupo -OH (hidroxilo). 
+...Nota.- Optamos por non incluír 
+...  “hidrocortisona” como sinónimo, xa que o 
+...  prefixo “hidro-” ten unicamente o valor de 
+...  ‘auga’; pola contra, tanto o sufixo “-ol” coma 
+...  o prefixo “hidroxi-” apuntan á presenza do 
+...  grupo -OH (hidroxilo). 
 
 ###R *cosanguinidade      
 Vid.- consanguinidade
@@ -15764,8 +15764,8 @@ back
 costas
 @ la
 dorsum
-.Nota.- Designa a ‘área dorsal entre os 
-.  ombreiros e o van’. Cfr. con “rexión costal”.
+...Nota.- Designa a ‘área dorsal entre os 
+...  ombreiros e o van’. Cfr. con “rexión costal”.
 ###C 1214  costela      f
 & Anatomía
 @ es
@@ -16052,7 +16052,7 @@ signo de Hamman
 Hamman sign
 @ pt
 sinal de Hamman
-.Nota.- Evítese “ruxido mediastínico”.
+...Nota.- Evítese “ruxido mediastínico”.
 
 ###R cretinismo
 Vid.- mixedema 
@@ -16925,7 +16925,7 @@ deglución
 deglutition
 @ pt
 deglutição
-.  Nota.- Evítese “deglución”.
+...  Nota.- Evítese “deglución”.
 
 ###R degranulación
 Vid.- desgranulación
@@ -17249,8 +17249,8 @@ depuración
 clearance
 @ pt
 depuração
-.Nota.- Evítese “aclaramento” ou 
-.  “clareamento”.
+...Nota.- Evítese “aclaramento” ou 
+...  “clareamento”.
 ###C 1321  depuración de creatinina      f
 & Probas complementarias
 @ es
@@ -17263,7 +17263,7 @@ creatinine clearance
 aclaramento de creatinina
 ;
 depuração de creatinina
-.Nota.- Evítese “aclaramento de creatinina”.
+...Nota.- Evítese “aclaramento de creatinina”.
 ###C 1322  depuración de urea      f
 & Probas complementarias
 @ es
@@ -17280,7 +17280,7 @@ aclaramento de uréia
 depuração de 
  
       uréia
-.Nota.- Evítese “aclaramento de urea”.
+...Nota.- Evítese “aclaramento de urea”.
 ###C 1323  deriva xenética      f
 & Xenética
 @ es
@@ -18023,9 +18023,9 @@ diafragma
 diaphragm
 @ pt
 diafragma
-.  Nota.- Designa un ‘contraceptivo feminino de 
-.  goma ou material plástico que se coloca diante 
-.  do colo do útero’.
+...  Nota.- Designa un ‘contraceptivo feminino de 
+...  goma ou material plástico que se coloca diante 
+...  do colo do útero’.
 ###C 1385  diafragma      m
 & Anatomía
 @SIN.- diafragma toracoabdominal
@@ -18045,9 +18045,9 @@ diafragma
       toracoabdominal
 @ la
 diaphragma
-.Nota.- Designa o ‘tabique 
-.  musculomembranoso que separa o abdome do 
-.  tórax’.
+...Nota.- Designa o ‘tabique 
+...  musculomembranoso que separa o abdome do 
+...  tórax’.
 ###C 1386  diafragma da pelve      m
 & Anatomía
 @SIN.- solo da pelve; solo pelviano 
@@ -18442,9 +18442,9 @@ minusvalía
 disability
 @ pt
 deficiência
-.Nota.- En contextos técnicos, débese evitar o 
-.  uso de “deficiencia” e de “minusvalidez” polas 
-.  súas connotacións pexorativas.
+...Nota.- En contextos técnicos, débese evitar o 
+...  uso de “deficiencia” e de “minusvalidez” polas 
+...  súas connotacións pexorativas.
 ###C 1421  discapacitado -da      s
 & Termos xerais
 @SIN.- persoa con discapacidade (f)
@@ -18464,9 +18464,9 @@ person with disabilities
 deficiente
 ;
 pessoa con deficiência
-.Nota.- En contextos técnicos, débese evitar o 
-.  uso de “deficiente” e de “minusválido” polas 
-.  súas connotacións pexorativas.
+...Nota.- En contextos técnicos, débese evitar o 
+...  uso de “deficiente” e de “minusválido” polas 
+...  súas connotacións pexorativas.
 ###C 1422  discectomía      f
 & Terapéutica
 @VAR.- disectomía
@@ -18480,8 +18480,8 @@ discectomy
 discectomia
 ;
 dissectomia
-.Nota.- Designa a ‘escisión dun disco 
-.  intervertebral’. Cfr. con “nucleotomía”.
+...Nota.- Designa a ‘escisión dun disco 
+...  intervertebral’. Cfr. con “nucleotomía”.
 ###C 1423  discinesia      f
 & Semioloxía        Patoloxías
 @ es
@@ -19302,7 +19302,7 @@ sugar-coated tablet
 drágea [Br.]
 ;
 drageia [Pt.]
-.  Nota.- Evítese “graxea”.
+...  Nota.- Evítese “graxea”.
 ###C 1490  drenaxe      f
 & Terapéutica
 @ es
@@ -20275,7 +20275,7 @@ elixir
 elixir
 @ pt
 elixir
-.Nota.- O –x– pronúnciase como [ks]
+...Nota.- O –x– pronúnciase como [ks]
 
 ###R EM
 Vid.- esclerose múltiple
@@ -20403,9 +20403,9 @@ emergencia
 emergency
 @ pt
 emergência
-.Nota.- Designa a ‘situación urxente que pon en 
-.  perigo inmediato a vida do paciente ou a 
-.  función dalgún órgano’. Cfr. con “urxencia”.
+...Nota.- Designa a ‘situación urxente que pon en 
+...  perigo inmediato a vida do paciente ou a 
+...  función dalgún órgano’. Cfr. con “urxencia”.
 
 ###R emese
 Vid.- vómito
@@ -20458,8 +20458,8 @@ emparejamiento
 mating
 @ pt
 emparelhamento
-.Nota.- Designa a ‘asociación lateral activa dos 
-.  cromosomas no cigoteno’.
+...Nota.- Designa a ‘asociación lateral activa dos 
+...  cromosomas no cigoteno’.
 ###C 1579  emparellamento      m
 & Epidemioloxía
 @ es
@@ -20470,9 +20470,9 @@ emparejamiento
 matching
 @ pt
 emparelhamento
-.  Nota.- Designa un ‘método para intentar 
-.  aleatorizar sen erros as mostras dos estudos 
-.  epidemiolóxicos’.
+...  Nota.- Designa un ‘método para intentar 
+...  aleatorizar sen erros as mostras dos estudos 
+...  epidemiolóxicos’.
 ###C 1580  empiema      m
 & Patoloxías
 @ es
@@ -20756,9 +20756,9 @@ endoftalmia
 endophthalmia
 @ pt
 endoftalmia
-.Nota.- Designa unha ‘proxección anormal do 
-.  globo ocular cara ao interior da cavidade 
-.  ocular’.
+...Nota.- Designa unha ‘proxección anormal do 
+...  globo ocular cara ao interior da cavidade 
+...  ocular’.
 
 ###R endoftalmía
 Vid.- endoftalmite
@@ -20777,8 +20777,8 @@ endophthalmitis
 endoftalmia
 ;
 endoftalmite
-.Nota.- Designa unha ‘inflamación dos tecidos 
-.  internos que compoñen o ollo’.
+...Nota.- Designa unha ‘inflamación dos tecidos 
+...  internos que compoñen o ollo’.
 ###C 1608  endolinfa      f
 & Fisioloxía
 @ es
@@ -20948,8 +20948,8 @@ enfermero
 nurse
 @ pt
 enfermeiro
-.Nota.- En inglés emprégase “male nurse” 
-.  cando quen exerce esa profesión é un home.
+...Nota.- En inglés emprégase “male nurse” 
+...  cando quen exerce esa profesión é un home.
 
 ###R enfermería 
 Vid.- enfermaría
@@ -22679,9 +22679,9 @@ fundo de
       saco de Douglas
 @ la
 excavatio rectouterina
-.Nota.- A denominación “fondo de saco de 
-.  Douglas” designa tanto este concepto como a 
-.  “escavación rectovesical”.
+...Nota.- A denominación “fondo de saco de 
+...  Douglas” designa tanto este concepto como a 
+...  “escavación rectovesical”.
 ###C 1757  escavación rectovesical      f
 & Anatomía
 @SIN.- fondo de saco rectovesical(m); 
@@ -22710,9 +22710,9 @@ fundo de
       saco de Douglas
 @ la
 excavatio rectovesicalis
-.Nota.- A denominación “fondo de saco de 
-.  Douglas” designa tanto este concepto como a 
-.  “escavación rectouterina”.
+...Nota.- A denominación “fondo de saco de 
+...  Douglas” designa tanto este concepto como a 
+...  “escavación rectouterina”.
 
 ###R escisión
 Vid.- excisión
@@ -23937,10 +23937,10 @@ estafiloplastia
 staphyloplasty
 @ pt
 estafiloplastia
-.Nota.- Non se deben empregar como 
-.  sinónimos “palatoplastia” e “uranoplastia”, que 
-.  designan a cirurxía que afecta tanto o padal 
-.  duro como o brando.
+...Nota.- Non se deben empregar como 
+...  sinónimos “palatoplastia” e “uranoplastia”, que 
+...  designan a cirurxía que afecta tanto o padal 
+...  duro como o brando.
 ###C 1852  estafiloquinase      f
 & Bioquímica
 @VAR.- estafilocinase
@@ -23960,10 +23960,10 @@ estafilorrafia
 staphylorrhaphy
 @ pt
 estafilorrafia
-.Nota.- Non se deben empregar como 
-.  sinónimos “palatorrafia” e “uranorrafia”, que 
-.  designan a corrección cirúrxica que afecta a 
-.  todo o padal.
+...Nota.- Non se deben empregar como 
+...  sinónimos “palatorrafia” e “uranorrafia”, que 
+...  designan a corrección cirúrxica que afecta a 
+...  todo o padal.
 ###C 1854  estafilotomía      f
 & Terapéutica
 @SIN.- uvulotomía
@@ -24136,8 +24136,8 @@ esterilización
 castration; sterilization
 @ pt
 castração; esterilização
-.Nota.- Designa a ‘extirpación das glándulas 
-.  xenitais’.
+...Nota.- Designa a ‘extirpación das glándulas 
+...  xenitais’.
 ###C 1871  esterilización      f
 & Terapéutica
 @ es
@@ -24146,11 +24146,11 @@ esterilización
 sterilization
 @ pt
 esterilização
-.Nota.- Designa a ‘eliminación de toda forma 
-.  de vida mediante medios físicos, químicos, 
-.  mecánicos ou por radiación, especialmente a 
-.  eliminación de patóxenos do material 
-.  cirúrxico’.
+...Nota.- Designa a ‘eliminación de toda forma 
+...  de vida mediante medios físicos, químicos, 
+...  mecánicos ou por radiación, especialmente a 
+...  eliminación de patóxenos do material 
+...  cirúrxico’.
 ###C 1872  esternebra      f
 & Anatomía
 @ es
@@ -24173,7 +24173,7 @@ sternum
 esterno
 @ la
 sternum
-.Nota.- Evítese “esternón”.
+...Nota.- Evítese “esternón”.
 
 ###R esternocleidomastoide      
 Vid.- músculo esternocleidomastoideo
@@ -25077,8 +25077,8 @@ surface
 face
 @ la
 facies
-.  Nota.- Designa ‘calquera das superficies que 
-.  limitan un órgano’. Cfr. con “cara”.
+...  Nota.- Designa ‘calquera das superficies que 
+...  limitan un órgano’. Cfr. con “cara”.
 
 ###R face 
 Vid.- cara
@@ -25932,10 +25932,10 @@ fecundidad
 fecundity
 @ pt
 fecundidade
-.Nota.- Designa o ‘resultado da actividade 
-.  reprodutiva dunha persoa, unha parella, un 
-.  grupo ou unha poboación’. Cfr. con 
-.  “fertilidade”.
+...Nota.- Designa o ‘resultado da actividade 
+...  reprodutiva dunha persoa, unha parella, un 
+...  grupo ou unha poboación’. Cfr. con 
+...  “fertilidade”.
 
 ###R feila
 Vid.- caspa
@@ -26083,10 +26083,10 @@ fertilidad
 fertility
 @ pt
 fertilidade
-.Nota.- Designa a ‘capacidade fisiolóxica 
-.  dunha muller, dun home ou dunha parella
-.  para  producir un fillo ou filla vivos’. Cfr. con 
-.  “fecundidade”.
+...Nota.- Designa a ‘capacidade fisiolóxica 
+...  dunha muller, dun home ou dunha parella
+...  para  producir un fillo ou filla vivos’. Cfr. con 
+...  “fecundidade”.
 
 ###R fertilización
 Vid.- fecundación
@@ -26301,7 +26301,7 @@ fibrocartilage
 fibrocartilagem
 @ la
 fibrocartilago
-.Nota.- Evítese “fibrocartílago”.
+...Nota.- Evítese “fibrocartílago”.
 
 ###R fibroide
 Vid.- fibroma
@@ -27303,8 +27303,8 @@ fóvea
    
 @ la
 fovea
-.Nota.- Designa ‘calquera fosa ou depresión 
-.  anatómica de pequeno tamaño’.
+...Nota.- Designa ‘calquera fosa ou depresión 
+...  anatómica de pequeno tamaño’.
 ###C 2114  fóvea      f
 & Semioloxía
 @ es
@@ -27330,8 +27330,8 @@ fóvea
 fóvea central
 @ la
 fovea centralis
-.Nota.- Designa a ‘depresión localizada na 
-.  mácula lútea da retina’.
+...Nota.- Designa a ‘depresión localizada na 
+...  mácula lútea da retina’.
 
 ###R fóvea central 
 Vid.- fóvea
@@ -27400,7 +27400,7 @@ RAP
       (sg)
 ;
 risco atribuível percentual
-.Nota.- Cfr. con “risco atribuíble”.
+...Nota.- Cfr. con “risco atribuíble”.
 ###C 2119  fractura      f
 & Patoloxías
 @ es
@@ -27495,7 +27495,7 @@ forehead
 fronte
 @ la
 frons
-.Nota.- Evítese “frente”.
+...Nota.- Evítese “frente”.
 ###C 2127  frotis      m
 & Probas complementarias
 @SIN.- extensión (f)
@@ -27715,9 +27715,9 @@ gammaglobulina
 gamma globulin
 @ pt
 gamaglobulina
-.Nota.- Designa as ‘inmunoglobulinas que 
-.  posúen unha mobilidade electroforética de 
-.  tipo gamma’. Cfr. con “inmunoglobulina”.
+...Nota.- Designa as ‘inmunoglobulinas que 
+...  posúen unha mobilidade electroforética de 
+...  tipo gamma’. Cfr. con “inmunoglobulina”.
 ###C 2143  gammagrafía      f
 & Probas complementarias
 @ es
@@ -27815,7 +27815,7 @@ gangrena
 gangrene
 @ pt
 gangrena
-.  Nota.- Evítese “cangrena”.
+...  Nota.- Evítese “cangrena”.
 ###C 2152  garganta      f
 & Anatomía
 @SIN.- gorxa
@@ -27865,7 +27865,7 @@ gasto cardíaco
 cardiac output
 @ pt
 débito cardíaco
-.Nota.- Cfr. con “traballo cardíaco”.
+...Nota.- Cfr. con “traballo cardíaco”.
 ###C 2157  gastrectomía      f
 & Terapéutica
 @ es
@@ -28066,11 +28066,11 @@ glans
 glande
 @ la
 glans
-.  Nota.- Designa unha ‘zona anatómica de 
-.  pequeno tamaño que posúe unha forma 
-.  arredondada’. Cando se refire en concreto ao 
-.  glande do pene, podemos empregar “bálano” 
-.  como sinónimo.
+...  Nota.- Designa unha ‘zona anatómica de 
+...  pequeno tamaño que posúe unha forma 
+...  arredondada’. Cando se refire en concreto ao 
+...  glande do pene, podemos empregar “bálano” 
+...  como sinónimo.
 ###C 2178  glándula      f
 & Anatomía        Histoloxía
 @ es
@@ -28868,11 +28868,11 @@ gota
 gout
 @ pt
 gota
-.  Nota.- Os termos “podagra” e “podagrismo” 
-.  (PT: podagra. EN: podagra. ES: podagra) 
-.  indican un tipo específico de gota , aínda que 
-.  ás veces se usan -de xeito impreciso- como 
-.  sinónimos desta.
+...  Nota.- Os termos “podagra” e “podagrismo” 
+...  (PT: podagra. EN: podagra. ES: podagra) 
+...  indican un tipo específico de gota , aínda que 
+...  ás veces se usan -de xeito impreciso- como 
+...  sinónimos desta.
 ###C 2239  gotas      f pl
 & Farmacoloxía
 @ es
@@ -28903,10 +28903,10 @@ gránulo
 granule
 @ pt
 grânulo
-.Nota.- Designa unha ‘pequena pílula que 
-.  contén unha mínima cantidade de 
-.  medicamento e que se administra en forma de 
-.  granulado’.
+...Nota.- Designa unha ‘pequena pílula que 
+...  contén unha mínima cantidade de 
+...  medicamento e que se administra en forma de 
+...  granulado’.
 ###C 2242  gránulo      m
 & Histoloxía
 @ es
@@ -28915,9 +28915,9 @@ gránulo
 granule
 @ pt
 grânulo
-.Nota.- Designa unha ‘pequena estrutura que se 
-.  pode observar ao microscopio no interior das 
-.  células’.
+...Nota.- Designa unha ‘pequena estrutura que se 
+...  pode observar ao microscopio no interior das 
+...  células’.
 ###C 2243  granulocito      m
 & Histoloxía
 @ es
@@ -28940,9 +28940,9 @@ granulopenia
 granulocitopenia
 ;
 granulopenia
-.Nota.- Designa a ‘diminución do número de 
-.  granulocitos a menos de mil por milímetro 
-.  cúbico de sangue’. Cfr. con “agranulocitose”.
+...Nota.- Designa a ‘diminución do número de 
+...  granulocitos a menos de mil por milímetro 
+...  cúbico de sangue’. Cfr. con “agranulocitose”.
 ###C 2245  granulocitose      f
 & Semioloxía
 @ es
@@ -30182,10 +30182,10 @@ oral herpes simplex
 herpes labial
 ;
 herpes simples oral
-.Nota.- Popularmente recibe o nome de 
-.  “boqueira”, pero este nome designa ‘calquera 
-.  proceso inflamatorio superficial nas comisuras 
-.  dos labios’ e non especificamente un herpes.
+...Nota.- Popularmente recibe o nome de 
+...  “boqueira”, pero este nome designa ‘calquera 
+...  proceso inflamatorio superficial nas comisuras 
+...  dos labios’ e non especificamente un herpes.
 ###C 2348  herpes simple      m
 & Patoloxías
 @ es
@@ -31268,8 +31268,8 @@ hyperthyroidism
 hipertireoidismo
 ;
 hipertiroidismo
-.  Nota.- Designa o ‘exceso da función tiroide’. 
-.  Cfr. con “tirotoxicose”.
+...  Nota.- Designa o ‘exceso da función tiroide’. 
+...  Cfr. con “tirotoxicose”.
 ###C 2441  hipertonía      f
 & Semioloxía
 @ es
@@ -31565,9 +31565,9 @@ hypogammaglobulinaemia
 hypogammaglobulinemia
 @ pt
 hipogamaglobulinemia
-.Nota.- Designa o ‘déficit ou diminución dos 
-.  niveis plasmáticos de globulinas gamma’. Cfr. 
-.  con “agammaglobulinemia”.
+...Nota.- Designa o ‘déficit ou diminución dos 
+...  niveis plasmáticos de globulinas gamma’. Cfr. 
+...  con “agammaglobulinemia”.
 
 ###R hipogastrio
 Vid.- rexión púbica
@@ -31597,11 +31597,11 @@ hipogonadismo
 hypogonadism
 @ pt
 hipogonadismo
-.  Nota.- Aínda que “hipoxenitalismo” (PT: 
-.  hipogenitalismo. EN: hypogenitalism. ES: 
-.  hipogenitalismo) se usa por veces como 
-.  sinónimo, realmente é só unha consecuencia 
-.  do “hipogonadismo”.
+...  Nota.- Aínda que “hipoxenitalismo” (PT: 
+...  hipogenitalismo. EN: hypogenitalism. ES: 
+...  hipogenitalismo) se usa por veces como 
+...  sinónimo, realmente é só unha consecuencia 
+...  do “hipogonadismo”.
 
 ###R hipohidrose
 Vid.- anhidrose
@@ -32115,7 +32115,7 @@ medical chart
 medical record
 @ pt
 história clínica
-.Nota.- Cfr. con “historia médica”.
+...Nota.- Cfr. con “historia médica”.
 
 ###R historia clínica
 Vid.- historia 
@@ -32154,7 +32154,7 @@ prontuário médico [Br.]
 registo 
  
       clínico
-.Nota.- Cfr. con “historia clínica”.
+...Nota.- Cfr. con “historia clínica”.
 ###C 2521  homeopatía      f
 & Termos xerais
 @ es
@@ -32670,7 +32670,7 @@ hospitalización
 hospital home care
 @ pt
 internação domiciliar
-.Nota.- Cfr. con “asistencia domiciliaria”.
+...Nota.- Cfr. con “asistencia domiciliaria”.
 
 ###R hospitalización domiciliaria      
 Vid.- hospitalización a domicilio
@@ -32686,7 +32686,7 @@ humor
 humor
 @ pt
 humor
-.  Nota.- Designa ‘calquera fluído orgánico”.
+...  Nota.- Designa ‘calquera fluído orgánico”.
 ###C 2547  humor      m
 & Fisioloxía
 @ es
@@ -32695,8 +32695,8 @@ humor
 mood
 @ pt
 humor
-.Nota.- Designa un ‘tipo de disposición afectiva 
-.  orientada cara á ledicia ou á tristeza’.
+...Nota.- Designa un ‘tipo de disposición afectiva 
+...  orientada cara á ledicia ou á tristeza’.
 ###C 2548  humor acuoso      m
 & Fisioloxía        Anatomía
 @ es
@@ -32916,8 +32916,8 @@ ileum
 íleo
 @ la
 ileum
-.Nota.- Designa a ‘porción do intestino delgado 
-.  que se estende entre o xexuno e o colon’.
+...Nota.- Designa a ‘porción do intestino delgado 
+...  que se estende entre o xexuno e o colon’.
 ###C 2563  íleo      m
 & Patoloxías
 @SIN.- obstrución intestinal (f); oclusión 
@@ -32934,8 +32934,8 @@ intestinal obstruction
 íleo
 ;
 obstrução intestinal
-.Nota.- Designa un ‘tipo de bloqueo intestinal 
-.  que interrompe o paso do seu contido’.
+...Nota.- Designa un ‘tipo de bloqueo intestinal 
+...  que interrompe o paso do seu contido’.
 ###C 2564  íleo paralítico      m
 & Patoloxías
 @SIN.- pseudoobstrución intestinal (f); 
@@ -32997,11 +32997,11 @@ aislamiento
 isolation
 @ pt
 isolamento
-.Nota.- Designa a ‘separación dunha persoa 
-.  infectada durante o período de 
-.  transmisibilidade da súa doenza, intentando 
-.  evitar que esta se lles transmita a outras 
-.  persoas’.
+...Nota.- Designa a ‘separación dunha persoa 
+...  infectada durante o período de 
+...  transmisibilidade da súa doenza, intentando 
+...  evitar que esta se lles transmita a outras 
+...  persoas’.
 ###C 2569  illamento      m
 & Etiopatoxenia
 @ es
@@ -33010,10 +33010,10 @@ aislamiento
 isolation
 @ pt
 isolamento
-.Nota.- Designa un ‘mecanismo de defensa do 
-.  suxeito, que satisfai parcialmente de forma 
-.  mental ou simbólica un acto que lle está 
-.  prohibido’.
+...Nota.- Designa un ‘mecanismo de defensa do 
+...  suxeito, que satisfai parcialmente de forma 
+...  mental ou simbólica un acto que lle está 
+...  prohibido’.
 
 ###R illarga
 Vid.- rexión lateral
@@ -33079,9 +33079,9 @@ implantación
 implantation
 @ pt
 implantação
-.Nota.- Designa a ‘fixación cirúrxica dun 
-.  órgano, dunha parte, ou dun tecido noutro 
-.  órgano’. Cfr. con “implante”.
+...Nota.- Designa a ‘fixación cirúrxica dun 
+...  órgano, dunha parte, ou dun tecido noutro 
+...  órgano’. Cfr. con “implante”.
 ###C 2575  implante      f
 & Terapéutica
 @ es
@@ -33090,9 +33090,9 @@ implante
 implant
 @ pt
 implante
-.  Nota.- Designa a ‘materia -orgánica ou 
-.  inorgánica- que é implantada no corpo dunha 
-.  persoa’. Cfr. con “implantación”.
+...  Nota.- Designa a ‘materia -orgánica ou 
+...  inorgánica- que é implantada no corpo dunha 
+...  persoa’. Cfr. con “implantación”.
 ###C 2576  impotencia      f
 & Patoloxías
 @SIN.- disfunción eréctil [cult.]
@@ -33120,8 +33120,8 @@ huella dactilar
 fingerprint
 @ pt
 impressão digital
-.Nota.- Designa a ‘marca deixada polo contacto 
-.  dun dedo nunha superficie’.
+...Nota.- Designa a ‘marca deixada polo contacto 
+...  dun dedo nunha superficie’.
 ###C 2578  impresión dixital      f
 & Xenética
 @SIN.- impresión dixital xenética; 
@@ -33136,9 +33136,9 @@ fingerprint
 genetic fingerprint
 @ pt
 impressão digital do DNA 
-.  Nota.- Designa a ‘identificación de múltiples 
-.  alelos específicos no ADN dunha persoa co fin 
-.  de atopar un identificador único para ela’.
+...  Nota.- Designa a ‘identificación de múltiples 
+...  alelos específicos no ADN dunha persoa co fin 
+...  de atopar un identificador único para ela’.
 
 ###R impresión dixital xenética      
 Vid.- impresión dixital
@@ -34032,9 +34032,9 @@ inmunodepresión
 immunodepression
 @ pt
 imunodepressão
-.Nota.- Designa a ‘diminunción da 
-.  inmunidade provocada por causas 
-.  patolóxicas’. Cfr. con “inmunosupresión”.
+...Nota.- Designa a ‘diminunción da 
+...  inmunidade provocada por causas 
+...  patolóxicas’. Cfr. con “inmunosupresión”.
 ###C 2654  inmunodepresor      m
 & Farmacoloxía
 @ es
@@ -34068,7 +34068,7 @@ inmunoglobulina
 immunoglobulin
 @ pt
 imunoglobulina
-.Nota.- Cfr. con “gammaglobulina”.
+...Nota.- Cfr. con “gammaglobulina”.
 ###C 2658  inmunólogo -ga      s
 & Organización sanitaria
 @ es
@@ -34109,9 +34109,9 @@ inmunosupresión
 immunosuppression
 @ pt
 imunossupressão
-.Nota.- Designa a ‘anulación da inmunidade 
-.  provocada artificialmente’. Cfr. con 
-.  “inmunodepresión”.
+...Nota.- Designa a ‘anulación da inmunidade 
+...  provocada artificialmente’. Cfr. con 
+...  “inmunodepresión”.
 ###C 2663  inmunosupresor      m
 & Farmacoloxía
 @ es
@@ -34820,9 +34820,9 @@ ingesta
 intake
 @ pt
 ingesta
-.  Nota.- Designa o ‘conxunto de materias que 
-.  se introducen no organismo por vía oral con 
-.  finalidade alimenticia’. Cfr. con “inxestión”:
+...  Nota.- Designa o ‘conxunto de materias que 
+...  se introducen no organismo por vía oral con 
+...  finalidade alimenticia’. Cfr. con “inxestión”:
 ###C 2715  inxestión      f
 & Fisioloxía
 @ es
@@ -34831,9 +34831,9 @@ ingestión
 ingestion
 @ pt
 ingestão
-.Nota.- Designa a ‘introdución no organismo de 
-.  alimentos, medicamentos ou calquera outra 
-.  substancia a través da boca’. Cfr. con “inxesta”.
+...Nota.- Designa a ‘introdución no organismo de 
+...  alimentos, medicamentos ou calquera outra 
+...  substancia a través da boca’. Cfr. con “inxesta”.
 ###C 2716  iodo      m
 & Bioquímica
 @SIN.- I (sb)
@@ -36170,7 +36170,7 @@ líbido
 libido
 @ pt
 libido
-.Nota.- Evítese “líbido”.
+...Nota.- Evítese “líbido”.
 
 ###R *líbido
 Vid.- libido
@@ -38422,10 +38422,10 @@ martillo
 hammer
 @ pt
 martelo
-.Nota.- Designa un ‘aparello formado por un 
-.  mango e unha cabeza percutora de diversos 
-.  materiais, que se emprega en manobras 
-.  exploratorias ou cirúrxicas’.
+...Nota.- Designa un ‘aparello formado por un 
+...  mango e unha cabeza percutora de diversos 
+...  materiais, que se emprega en manobras 
+...  exploratorias ou cirúrxicas’.
 ###C 3005  martelo      m
 & Anatomía
 @ es
@@ -38438,9 +38438,9 @@ malleus
 martelo
 @ la
 malleus
-.Nota.- Designa o ‘primeiro dos ósos que 
-.  constitúen a cadea do oído medio, situado 
-.  detrás da membrana timpánica’.
+...Nota.- Designa o ‘primeiro dos ósos que 
+...  constitúen a cadea do oído medio, situado 
+...  detrás da membrana timpánica’.
 
 ###R marxa
 Vid.- efélide
@@ -38603,11 +38603,11 @@ matrón
 midwife
 @ pt
 parteiro
-.Nota.- Aínda que incluímos as entradas en 
-.  masculino por manter a coherencia co resto do 
-.  traballo, na inmensa maioría das ocasións 
-.  empréganse en feminino (matrona ou 
-.  comadroa).
+...Nota.- Aínda que incluímos as entradas en 
+...  masculino por manter a coherencia co resto do 
+...  traballo, na inmensa maioría das ocasións 
+...  empréganse en feminino (matrona ou 
+...  comadroa).
 
 ###R maxila
 Vid.- maxilar superior
@@ -38948,11 +38948,11 @@ physician
 doutor
 ;
 médico
-.Nota.- Aínda que o “médico” só acada o 
-.  título de “doutor” despois de realizar estudos 
-.  de doutoramento, na práctica as dúas 
-.  denominacións funcionan como sinónimos no 
-.  sistema sanitario español.
+...Nota.- Aínda que o “médico” só acada o 
+...  título de “doutor” despois de realizar estudos 
+...  de doutoramento, na práctica as dúas 
+...  denominacións funcionan como sinónimos no 
+...  sistema sanitario español.
 
 ###R médico -ca de cabeceira      
 Vid.- médico -ca de familia
@@ -39031,7 +39031,7 @@ spinal cord
 medula espinhal
 @ la
 medulla spinalis
-.Nota.- Evítese “médula”.
+...Nota.- Evítese “médula”.
 
 ###R medula oblonga
 Vid.- bulbo 
@@ -39544,7 +39544,7 @@ menopausia
 menopause
 @ pt
 menopausa
-.Nota.- Cfr. con “climaterio”.
+...Nota.- Cfr. con “climaterio”.
 ###C 3092  menorraxia      f
 & Semioloxía
 @ es
@@ -41102,13 +41102,13 @@ muerte asistida
 assisted death
 @ pt
 morte assistida
-.Nota.- Non incluímos como sinónimo 
-.  “suicidio asistido” (EN: assisted suicide. ES: 
-.  suicidio asistido. PT: suicídio assistido) porque 
-.  esta denominación parece aludir a que se 
-.  lle está a arrebatar a vida ao paciente, cando a 
-.  “morte asistida” só se aplica en caso de que a 
-.  morte do doente sexa 
+...Nota.- Non incluímos como sinónimo 
+...  “suicidio asistido” (EN: assisted suicide. ES: 
+...  suicidio asistido. PT: suicídio assistido) porque 
+...  esta denominación parece aludir a que se 
+...  lle está a arrebatar a vida ao paciente, cando a 
+...  “morte asistida” só se aplica en caso de que a 
+...  morte do doente sexa 
 ###C 3228  morte cerebral      f
 & Termos xerais
 @ es
@@ -41192,7 +41192,7 @@ muestreo
 sampling
 @ pt
 amostragem
-.Nota.- Evítese “mostreo”.
+...Nota.- Evítese “mostreo”.
 
 ###R *mostreo
 Vid.- mostraxe
@@ -41851,7 +41851,7 @@ deltóide
 músculo deltóide
 @ la
 musculus deltoideus
-.  Nota.- Evítese “músculo deltoides”.
+...  Nota.- Evítese “músculo deltoides”.
 
 ###R *músculo deltoides      
 Vid.- músculo deltoide
@@ -42986,8 +42986,8 @@ masseter muscle
 músculo masseter
 @ la
 musculus masseter
-.Nota.- Evítese “músculo maseteiro” e “músculo 
-.  maséter”.
+...Nota.- Evítese “músculo maseteiro” e “músculo 
+...  maséter”.
 
 ###R *músculo maséter      
 Vid.- músculo maseter
@@ -46646,9 +46646,9 @@ nosología
 nosology
 @ pt
 nosologia
-.Nota.- Designa a ‘parte da medicina que 
-.  describe, diferencia e clasifica as 
-.  enfermidades’. Cfr. con “patoloxía”.
+...Nota.- Designa a ‘parte da medicina que 
+...  describe, diferencia e clasifica as 
+...  enfermidades’. Cfr. con “patoloxía”.
 ###C 3588  núcleo      m
 & Histoloxía
 @ es
@@ -46747,9 +46747,9 @@ nucleotomía
 nucleotomy
 @ pt
 nucleotomia
-.  Nota.- Designa a ‘extracción do material 
-.  viscoso que contén o disco vertebral’. Cfr. con 
-.  “discectomía”.
+...  Nota.- Designa a ‘extracción do material 
+...  viscoso que contén o disco vertebral’. Cfr. con 
+...  “discectomía”.
 ###C 3597  nulípara      f
 & Termos xerais
 @ es
@@ -49121,7 +49121,7 @@ ovulação
 ovule
 @ pt
 óvulo
-.Nota.- Designa a ‘célula sexual feminina’.
+...Nota.- Designa a ‘célula sexual feminina’.
 ###C 3783  óvulo      m
 & Farmacoloxía
 @SIN.- supositorio vaxinal
@@ -49137,8 +49137,8 @@ vaginal suppository
 óvulo
 ;
 supositório vaginal
-.  Nota.- Designa un ‘supositorio que se 
-.  administra por vía vaxinal’.
+...  Nota.- Designa un ‘supositorio que se 
+...  administra por vía vaxinal’.
 ###C 3784  oxidase      f
 & Bioquímica
 @ es
@@ -49847,7 +49847,7 @@ parásito
 parasite
 @ pt
 parasita
-.Nota.- Evítese “parásito”.
+...Nota.- Evítese “parásito”.
 
 ###R *parásito
 Vid.- parasito
@@ -50121,10 +50121,10 @@ patología
 pathology
 @ pt
 patologia
-.Nota.- Designa a ‘parte da medicina que 
-.  estuda as enfermidades, os seus síntomas e 
-.  os cambios que provocan no organismo’. Cfr. 
-.  con “nosoloxía”.
+...Nota.- Designa a ‘parte da medicina que 
+...  estuda as enfermidades, os seus síntomas e 
+...  os cambios que provocan no organismo’. Cfr. 
+...  con “nosoloxía”.
 
 ###R patoloxía
 Vid.- enfermidade
@@ -50649,9 +50649,9 @@ perfusión
 perfusion
 @ pt
 perfusão
-.Nota.- Designa o ‘proceso de subministración 
-.  de nutrientes do sangue a unha rede de 
-.  capilares’.
+...Nota.- Designa o ‘proceso de subministración 
+...  de nutrientes do sangue a unha rede de 
+...  capilares’.
 ###C 3899  perfusión      f
 & Terapéutica
 @ es
@@ -50660,9 +50660,9 @@ perfusión
 perfusion
 @ pt
 perfusão
-.Nota.- Designa unha ‘terapia pola que se lle 
-.  inxecta a un doente un certo volume de 
-.  líquido por vía intravenosa’.
+...Nota.- Designa unha ‘terapia pola que se lle 
+...  inxecta a un doente un certo volume de 
+...  líquido por vía intravenosa’.
 ###C 3900  periartrite      f
 & Patoloxías
 @ es
@@ -50793,7 +50793,7 @@ perineum
 períneo
 @ la
 perineum
-.Nota.- Evítese “periné”.
+...Nota.- Evítese “periné”.
 ###C 3912  perineometría      f
 & Probas complementarias
 @ es
@@ -50904,7 +50904,7 @@ periosteum
 periósteo
 @ la
 periosteum
-.Nota.- Evítese “periostio”.
+...Nota.- Evítese “periostio”.
 
 ###R *periostio
 Vid.- periósteo
@@ -50945,7 +50945,7 @@ peritoneu [Pt.]
 peritônio [Br.]
 @ la
 peritoneum
-.Nota.- Evítese “peritoné”.
+...Nota.- Evítese “peritoné”.
 
 ###R peritoneoplastia      
 Vid.- peritonización
@@ -51421,7 +51421,7 @@ píldora
 pill
 @ pt
 pílula
-.Nota.- Evítese “píldora”.
+...Nota.- Evítese “píldora”.
 
 ###R pimeloma 
 Vid.- lipoma
@@ -51911,7 +51911,7 @@ planta do pé
 planta
 ;
 planta pedis
-.Nota.- Evítese “pranta do pé”.
+...Nota.- Evítese “pranta do pé”.
 ###C 3995  plaqueta      f
 & Histoloxía
 @SIN.- trombocito (m)
@@ -52880,8 +52880,8 @@ carrier
 portador
 ;
 portador genético
-.Nota.- Designa o ‘individuo que posúe un 
-.  trazo xenético recesivo ou inexpresado’.
+...Nota.- Designa o ‘individuo que posúe un 
+...  trazo xenético recesivo ou inexpresado’.
 ###C 4075  portador -ra      s
 & Epidemioloxía
 @ es
@@ -52890,9 +52890,9 @@ portador
 carrier
 @ pt
 portador
-.Nota.- Designa o ‘individuo infectado de 
-.  xermes que actúa como propagador dunha 
-.  enfermidade’.
+...Nota.- Designa o ‘individuo infectado de 
+...  xermes que actúa como propagador dunha 
+...  enfermidade’.
 
 ###R portador xenético
 Vid.- portador -ra
@@ -52944,9 +52944,9 @@ postparto
 postpartum
 @ pt
 pós-parto
-.Nota.- Designa o ‘período de tempo que 
-.  sucede inmediatamente ao parto’. Cfr. con 
-.  “puerperio”.
+...Nota.- Designa o ‘período de tempo que 
+...  sucede inmediatamente ao parto’. Cfr. con 
+...  “puerperio”.
 ###C 4080  posprandial      a
 & Termos xerais
 @ es
@@ -54899,10 +54899,10 @@ puerperio
 puerperium
 @ pt
 puerpério
-.Nota.- Designa o ‘período de tempo que 
-.  transcorre desde o parto ata que os xenitais e o 
-.  estado xeral da muller recuperan o seu estado 
-.  anterior ao embarazo’. Cfr. con “posparto”.
+...Nota.- Designa o ‘período de tempo que 
+...  transcorre desde o parto ata que os xenitais e o 
+...  estado xeral da muller recuperan o seu estado 
+...  anterior ao embarazo’. Cfr. con “posparto”.
 ###C 4232  pulga      f
 & Etiopatoxenia
 @ es
@@ -54974,8 +54974,8 @@ muñeca
 wrist
 @ pt
 pulso
-.Nota.- Designa o ‘lugar onde se xuntan a man 
-.  e o antebrazo’. Evítese “boneca” e “moneca”.
+...Nota.- Designa o ‘lugar onde se xuntan a man 
+...  e o antebrazo’. Evítese “boneca” e “moneca”.
 ###C 4238  pulso      m
 & Fisioloxía
 @ es
@@ -54984,8 +54984,8 @@ pulso
 pulse
 @ pt
 pulso
-.Nota.- Designa a ‘sucesión das pulsacións 
-.  arteriais’.
+...Nota.- Designa a ‘sucesión das pulsacións 
+...  arteriais’.
 ###C 4239  pulso alternante      m
 & Semioloxía
 @VAR.- 
@@ -55020,7 +55020,7 @@ pulso paradójico
 paradoxical pulse
 @ pt
 pulso paradoxal
-.Nota.- Evítese “pulso paradóxico”.
+...Nota.- Evítese “pulso paradóxico”.
 
 ###R *pulso paradóxico  
 Vid.- pulso 
@@ -55311,7 +55311,7 @@ mento
 queixo
 @ la
 mentum
-.Nota.- Evítese “mentón”.
+...Nota.- Evítese “mentón”.
 
 ###R queixo  
 Vid.- queixelo
@@ -55474,7 +55474,7 @@ quilomicrón
 chylomicron
 @ pt
 quilomícron
-.Nota.- Evítese “quilomicrón”.
+...Nota.- Evítese “quilomicrón”.
 
 ###R *quilomicrón
 Vid.- quilomicron
@@ -57507,8 +57507,8 @@ rib region
 região costal
 @ la
 regio costalis
-.Nota.- Designa a ‘parte do tronco onde están 
-.  as costelas’. Cfr. con “costas”.
+...Nota.- Designa a ‘parte do tronco onde están 
+...  as costelas’. Cfr. con “costas”.
 ###C 4434  rexión epigástrica      f
 & Anatomía
 @SIN.- epigastrio (m)
@@ -57842,7 +57842,7 @@ riesgo atribuible
 attributable risk
 @ pt
 risco atribuível
-.Nota.- Cfr. con “fracción etiolóxica de risco”
+...Nota.- Cfr. con “fracción etiolóxica de risco”
 ###C 4460  risco de ocorrencia      m
 & Xenética
 @ es
@@ -58730,9 +58730,9 @@ sedante
 sedative
 @ pt
 sedativo
-.Nota.- Designa un ‘tipo de fármaco que 
-.  calma a excitación e a dor’. Cfr. con 
-.  “calmante” e “tranquilizante”.
+...Nota.- Designa un ‘tipo de fármaco que 
+...  calma a excitación e a dor’. Cfr. con 
+...  “calmante” e “tranquilizante”.
 ###C 4539  sedentarismo      m
 & Etiopatoxenia
 @ es
@@ -58840,7 +58840,7 @@ semiología
 semiology
 @ pt
 semiologia
-.Nota.- Cfr. con “sintomatoloxía”.
+...Nota.- Cfr. con “sintomatoloxía”.
 
 ###R sen
 Vid.- tempa
@@ -58860,8 +58860,8 @@ sensibilidad
 sensitivity
 @ pt
 sensibilidade
-.Nota.- Designa unha ‘forma de medida do grao 
-.  de exactitude dunha proba’.
+...Nota.- Designa unha ‘forma de medida do grao 
+...  de exactitude dunha proba’.
 ###C 4550  sensibilidade      f
 & Fisioloxía
 @ es
@@ -58870,9 +58870,9 @@ sensibilidad
 sensitivity
 @ pt
 sensibilidade
-.Nota.- Designa a ‘capacidade de percibir 
-.  sensacións de orixe cutánea, profunda e 
-.  interoceptiva’.
+...Nota.- Designa a ‘capacidade de percibir 
+...  sensacións de orixe cutánea, profunda e 
+...  interoceptiva’.
 
 ###R sensibilinóxeno
 Vid.- alérxeno
@@ -60123,11 +60123,11 @@ síndrome de Down
 Down syndrome
 @ pt
 síndrome de Down
-.Nota.- Esta doenza foi coñecida ata os anos 
-.  60 do pasado século co nome de 
-.  “mongolismo”, pero hoxe o seu uso está 
-.  desaconsellado polas connotacións pexorativas 
-.  que comporta.
+...Nota.- Esta doenza foi coñecida ata os anos 
+...  60 do pasado século co nome de 
+...  “mongolismo”, pero hoxe o seu uso está 
+...  desaconsellado polas connotacións pexorativas 
+...  que comporta.
 ###C 4642  síndrome de fatiga crónica      f
 & Patoloxías
 @SIN.- SFC (sg)
@@ -60630,7 +60630,7 @@ sintomatología
 symptomatology
 @ pt
 sintomatologia
-.Nota.- Cfr. con “semioloxía”.
+...Nota.- Cfr. con “semioloxía”.
 ###C 4681  sinusectomía      f
 & Terapéutica
 @ es
@@ -61357,7 +61357,7 @@ sonambulismo
 somnambulism
 @ pt
 sonambulismo
-.Nota.- Evítese “sonambulismo”.
+...Nota.- Evítese “sonambulismo”.
 
 ###R somnífero
 Vid.- hipnótico
@@ -61394,10 +61394,10 @@ cânula
 cateter
 ;
 sonda
-.Nota.- Designa un ‘instrumento longo e fino, 
-.  cilíndrico, empregado para explorar condutos 
-.  do organismo, extraer ou introducir 
-.  substancias, etc.’
+...Nota.- Designa un ‘instrumento longo e fino, 
+...  cilíndrico, empregado para explorar condutos 
+...  do organismo, extraer ou introducir 
+...  substancias, etc.’
 ###C 4730  sonda      f
 & Xenética
 @ es
@@ -61406,9 +61406,9 @@ sonda
 probe
 @ pt
 sonda
-.Nota.- Designa un ‘fragmento de ADN ou ARN 
-.  que se emprega para determinados labores de 
-.  detección no ámbito da xenética’.
+...Nota.- Designa un ‘fragmento de ADN ou ARN 
+...  que se emprega para determinados labores de 
+...  detección no ámbito da xenética’.
 
 ###R sondaxe
 Vid.- cateterismo
@@ -61455,8 +61455,8 @@ suero
 serum
 @ pt
 soro
-.Nota.- Designa a ‘parte límpida dun líquido 
-.   orgánico, separada por coagulación’.
+...Nota.- Designa a ‘parte límpida dun líquido 
+...   orgánico, separada por coagulación’.
 ###C 4735  soro fisiolóxico      m
 & Farmacoloxía
 @ es
@@ -62125,9 +62125,9 @@ heel
 talão
 @ la
 calx
-.Nota.- Algúns dicionarios galegos diferencian 
-.  entre “talón” e “calcañar” indicando que o 
-.  segundo é a ‘parte inferior do talón’.
+...Nota.- Algúns dicionarios galegos diferencian 
+...  entre “talón” e “calcañar” indicando que o 
+...  segundo é a ‘parte inferior do talón’.
 
 
 talus
@@ -62291,7 +62291,7 @@ tasa de fecundidad
 fecundity rate
 @ pt
 taxa de fecundidade
-.Nota.- Cfr. con “taxa de fertilidade”.
+...Nota.- Cfr. con “taxa de fertilidade”.
 ###C 4797  taxa de fertilidade      f
 & Epidemioloxía
 @ es
@@ -62300,7 +62300,7 @@ tasa de fertilidad
 fertility rate
 @ pt
 taxa de fertilidade
-.  Nota.- Cfr. con “taxa de fecundidade”.
+...  Nota.- Cfr. con “taxa de fecundidade”.
 
 ###R taxa de incidencia
 Vid.- incidencia acumulada
@@ -63678,7 +63678,7 @@ tétanos
 tetanus
 @ pt
 tétano
-.Nota.- Evítese “tétanos”.
+...Nota.- Evítese “tétanos”.
 
 ###R *tétanos  
 Vid.- tétano
@@ -64067,9 +64067,9 @@ tirotoxicosis
 thyrotoxicosis
 @ pt
 tirotoxicose
-.Nota.- Designa o ‘efecto producido polo 
-.  exceso de hormonas tiroides’. Cfr. con 
-.  “hipertiroidismo”.
+...Nota.- Designa o ‘efecto producido polo 
+...  exceso de hormonas tiroides’. Cfr. con 
+...  “hipertiroidismo”.
 
 ###R tirotropina
 Vid.- hormona 
@@ -64346,7 +64346,7 @@ toracotomía
 thoracotomy
 @ pt
 toracotomia
-.  Nota.- Cfr. con “pleurotomía”.
+...  Nota.- Cfr. con “pleurotomía”.
 ###C 4947  tórax      m
 & Anatomía
 @ es
@@ -64557,7 +64557,7 @@ trabajo cardíaco
 stroke work
 @ pt
 trabalho cardíaco
-.Nota.- Cfr. con “gasto cardíaco”.
+...Nota.- Cfr. con “gasto cardíaco”.
 ###C 4961  traballo de parto      m
 & Termos xerais
 @ es
@@ -64692,9 +64692,9 @@ tranquilizante
 tranquillizer
 @ pt
 tranquilizante
-.Nota.- Designa un ‘tipo de fármacos 
-.  psicotrópicos que posúen efecto ansiolítico e 
-.  sedante’. Cfr. con “sedante” e “calmante”.
+...Nota.- Designa un ‘tipo de fármacos 
+...  psicotrópicos que posúen efecto ansiolítico e 
+...  sedante’. Cfr. con “sedante” e “calmante”.
 
 ###R tranquilizante menor      
 Vid.- ansiolítico
@@ -64936,7 +64936,7 @@ traquéia [Br.]
 traqueia [Pt.]
 @ la
 trachea
-.  Nota.- Evítese “tráquea”.
+...  Nota.- Evítese “tráquea”.
 
 ###R *tráquea
 Vid.- traquea
@@ -65186,10 +65186,10 @@ trauma psicológico
 trauma 
  
       psíquico
-.Nota.- Designa a ‘emoción intensa ou 
-.  vivencia brusca que imposibilita a reacción, 
-.  marcando a personalidade de quen a padece’. 
-.  Cfr. con “traumatismo”.
+...Nota.- Designa a ‘emoción intensa ou 
+...  vivencia brusca que imposibilita a reacción, 
+...  marcando a personalidade de quen a padece’. 
+...  Cfr. con “traumatismo”.
 
 ###R trauma psicolóxico
 Vid.- trauma
@@ -65206,10 +65206,10 @@ injury
 traumatism
 @ pt
 traumatismo
-.Nota.- Designa a ‘lesión física producida por 
-.  unha acción violenta ou pola introdución no 
-.  corpo dunha substancia tóxica’. Cfr. con 
-.  “trauma”.
+...Nota.- Designa a ‘lesión física producida por 
+...  unha acción violenta ou pola introdución no 
+...  corpo dunha substancia tóxica’. Cfr. con 
+...  “trauma”.
 ###C 5014  traumatólogo -ga      s
 & Organización sanitaria
 @ es
@@ -66122,10 +66122,10 @@ neoplasia
 neoplasma
 ;
 tumor
-.Nota.- Designa unha ‘neoformación progresiva 
-.  de tecido, con multiplicación non controlada 
-.  polos sistemas reguladores do organismo’. Cfr. 
-.  con “cancro”.
+...Nota.- Designa unha ‘neoformación progresiva 
+...  de tecido, con multiplicación non controlada 
+...  polos sistemas reguladores do organismo’. Cfr. 
+...  con “cancro”.
 
 ###R tumor da teca ovárica
 Vid.- tecoma
@@ -66652,11 +66652,11 @@ urgencia
 emergency
 @ pt
 urgência
-.Nota.- Designa a ‘aparición fortuíta en 
-.  calquera lugar ou actividade dun problema 
-.  de causa diversa e gravidade variable que xera 
-.  a consciencia dunha necesidade inminente de 
-.  atención’. Cfr. con “emerxencia”.
+...Nota.- Designa a ‘aparición fortuíta en 
+...  calquera lugar ou actividade dun problema 
+...  de causa diversa e gravidade variable que xera 
+...  a consciencia dunha necesidade inminente de 
+...  atención’. Cfr. con “emerxencia”.
 
 ###R uterectomía
 Vid.- histerectomía
@@ -68236,11 +68236,11 @@ ventosa
 ventouse
 @ pt
 ventosa
-.Nota.- Designa un ‘aparello empregado para 
-.  a extracción do feto, que consiste nunha 
-.  cazoliña de plástico que se adapta e se adhire 
-.  á cabeza do bebé, axudándolle a descender 
-.  pola canle do parto’.
+...Nota.- Designa un ‘aparello empregado para 
+...  a extracción do feto, que consiste nunha 
+...  cazoliña de plástico que se adapta e se adhire 
+...  á cabeza do bebé, axudándolle a descender 
+...  pola canle do parto’.
 
 ###R ventral 
 Vid.- anterior
@@ -68497,7 +68497,7 @@ dizziness
 vertigo
 @ pt
 vertigem
-.  Nota.- Evítese “vértigo”.
+...  Nota.- Evítese “vértigo”.
 ###C 5249  vertixe posicional      f
 & Patoloxías
 @SIN.- vertixe postural
@@ -68536,9 +68536,9 @@ vesícula
 vesicle
 @ pt
 vesícula
-.  Nota.- Designa ‘unha elevación circunscrita da 
-.  pel, chea de líquido seroso, que pode chegar a 
-.  medir 1 cm. de diámetro’.
+...  Nota.- Designa ‘unha elevación circunscrita da 
+...  pel, chea de líquido seroso, que pode chegar a 
+...  medir 1 cm. de diámetro’.
 ###C 5251  vesícula      f
 & Histoloxía
 @ es
@@ -68547,8 +68547,8 @@ vesícula
 vesicle
 @ pt
 vesícula
-.Nota.- Designa un ‘orgánulo limitado por unha 
-.  membrana unitaria’.
+...Nota.- Designa un ‘orgánulo limitado por unha 
+...  membrana unitaria’.
 ###C 5252  vesícula biliar      f
 & Anatomía
 @SIN.- vexiga biliar; vexiga do fel [pop.]
@@ -69730,7 +69730,7 @@ champú
 shampoo
 @ pt
 champô
-.Nota.- Evítese “champú”.
+...Nota.- Evítese “champú”.
 
 ###R xanela coclear 
 Vid.- ventá 
@@ -69809,7 +69809,7 @@ migraña
 migraine
 @ pt
 enxaqueca
-.  Nota.- Evítese “migraña”.
+...  Nota.- Evítese “migraña”.
 
 ###R *xarabe 
 Vid.- xarope
@@ -69824,7 +69824,7 @@ jarabe
 syrup
 @ pt
 xarope
-.  Nota.- Evítese “xarabe”.
+...  Nota.- Evítese “xarabe”.
 ###C 5342  xaxún      m
 & Etiopatoxenia        Termos xerais
 @ es
@@ -70405,7 +70405,7 @@ jeringuilla
 syringe
 @ pt
 seringa
-.Nota.- Evítese “xeringa”.
+...Nota.- Evítese “xeringa”.
 
 ###R xiro
 Vid.- circunvolución

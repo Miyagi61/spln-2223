@@ -76,7 +76,7 @@ def limpaFontSpec(texto):
 texto = limpaFontSpec(texto)
 
 def marcaNota(texto):
-    texto = re.sub(r'<text.* font="9">(.*)</text>', r'.\1', texto)
+    texto = re.sub(r'<text.* font="9">(.*)</text>', r'...\1', texto)
     return texto
 
 texto = marcaNota(texto)
@@ -136,6 +136,32 @@ def troca_C_para_R(texto):
 
 texto = troca_C_para_R(texto)
 
+def generoDic(lista):
+    aux = [x.strip() for x in lista]
+    lista = []
+    for elem in aux:
+        if len(elem) != 0:
+            lista.append(elem)
+
+    return lista
+
+def trataLinguas(lista):
+    aux = [x.strip() for x in lista]
+    lista = [[],{}] # lista[0] = SIN e VAR, lista[1] = resto
+    for elem in aux:
+        if len(elem) != 0:
+            if elem[:3] == 'SIN' or elem[:3] == 'VAR':
+                lista[0].append(elem)
+            elif elem[2] == '\n':
+                elem = elem.split('\n')
+                leng = elem[0]
+                resto = "".join(elem[1:])
+
+                lista[1][leng] = resto.split(';') 
+            lista.append(elem)
+
+    return lista
+
 # dicionario
 lista_texto = texto.split('###')[1:]
 
@@ -146,14 +172,20 @@ for entrada in lista_texto:
         entrada = entrada.split('\n')
         dic['R'][entrada[0][2:].strip()] = "".join(entrada[1:])
     else:
-        linguas = entrada.split('@')
+        nota = entrada.split('...')
+        linguas = nota[0].split('@')
+        if len(nota) == 1:
+            nota = ""
+        else:
+            nota = nota[1].split("Nota.-")[1].strip()
         areas = [elem.strip() for elem in linguas[0].split('&')[1:]]
         titulo = linguas[0].split('&')[0]
-        linguas = linguas[1:]
+        linguas = trataLinguas(linguas[1:])
+        info = linguas[0]
         numero = titulo.split(' ')[1]
         nome = "".join(titulo.split(' ')[2:-1])
-        genero = "".join(titulo.split(' ')[-1])
-        dic['C'][numero] = {'nome': nome,'genero' :[x.strip() for x in genero] ,'areas': areas, 'linguas': linguas.strip()}
+        genero = generoDic("".join(titulo.split(' ')[-1]))
+        dic['C'][numero] = {'nome': nome, 'info': info,'genero' : genero ,'areas': areas, 'linguas': linguas[1], 'nota': nota}
 
 
 print("R: "+str(len(dic['R'])),"C:"+ str(len(dic['C'])))
