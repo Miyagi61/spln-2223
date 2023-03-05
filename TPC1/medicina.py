@@ -157,10 +157,14 @@ def trataLinguas(lista):
                 leng = elem[0]
                 resto = "".join(elem[1:])
 
-                lista[1][leng] = resto.split(';') 
+                lista[1][leng] = [retiraEspacos(elem) for elem in resto.split(';')]  
             lista.append(elem)
 
     return lista
+
+def retiraEspacos(texto):
+    texto = re.sub(r' {2,}',r' ',texto)
+    return texto
 
 # dicionario
 lista_texto = texto.split('###')[1:]
@@ -170,7 +174,9 @@ dic = {"R": {}, "C": {}}
 for entrada in lista_texto:
     if entrada[0] == 'R':
         entrada = entrada.split('\n')
-        dic['R'][entrada[0][2:].strip()] = "".join(entrada[1:])
+        aux = "".join(entrada[1:])
+        aux = re.sub(r"Vid.- (.*)",r"\1",aux)
+        dic['R'][entrada[0][2:].strip()] = re.sub(r" {2,}",r" ",aux)
     else:
         nota = entrada.split('...')
         linguas = nota[0].split('@')
@@ -185,6 +191,11 @@ for entrada in lista_texto:
         numero = titulo.split(' ')[1]
         nome = "".join(titulo.split(' ')[2:-1])
         genero = generoDic("".join(titulo.split(' ')[-1]))
+
+        nome = retiraEspacos(nome)
+        genero = [retiraEspacos(elem) for elem in genero]
+        areas = [retiraEspacos(elem) for elem in areas]
+    
         dic['C'][numero] = {'nome': nome, 'info': info,'genero' : genero ,'areas': areas, 'linguas': linguas[1], 'nota': nota}
 
 
