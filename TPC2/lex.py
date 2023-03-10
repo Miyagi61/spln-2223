@@ -1,22 +1,43 @@
 import ply.lex as lex
 import sys
 
-literals = [':', '-', '+', '\n', r'@']
+literals = []
 
-tokens = ( 'ID' , 'ID_LING' , 'VAL', 'LINHA_B')
-
-def t_ID(t): 
-    r'\w+'
-    t.value = str(t.value)
-    return t
+tokens = ( 'ID' , 'ID_LING' , 'VAL', 'LINHA_B' , 'PONTO' , 'DOIS_PONTOS' , 'PLUS' )
 
 def t_ID_LING(t): 
-    r'\w{2}'
+    r"\'\w{2}\'"
+    t.value = str(t.value)[1:-1]
+    return t
+
+def t_ID(t): 
+    r'_\w+'
     t.value = str(t.value)
     return t
 
+def t_PONTO(t):
+    r'\.'
+    t.value = str(t.value)
+    return t
+
+def t_DOIS_PONTOS(t):
+    r':'
+    t.value = str(t.value)
+    return t
+
+def t_PLUS(t):
+    r'\+'
+    t.value = str(t.value)
+    return t
+
+def t_AT(t):
+    r'@'
+    t.value = str(t.value)
+    return t
+
+
 def t_VAL(t): 
-    r'[^:\n]+'
+    r'[^:\n@.]+'
     t.value = str(t.value)
     return t
 

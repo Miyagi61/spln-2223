@@ -6,9 +6,9 @@ _tabversion = '3.10'
 
 _lr_method = 'LALR'
 
-_lr_signature = "ID ID_LING LINHA_B VALdic : eses : es LINHA_B ees : ee : itemsitems : items itemitems : itemitem : '@' lingitem : at_concling : ID_LING ':' tsat_conc : ID ':' VALts : ts tts : tt : '-' VAL at_tsat_ts : at_ts at_tat_ts : at_t : '+' ID ':' VAL"
+_lr_signature = "DOIS_PONTOS ID ID_LING LINHA_B PLUS PONTO VALdic : eses : es LINHA_B ees : ee : itemsitems : items '\\n' itemitems : itemitem : lingitem : at_concling : ID_LING DOIS_PONTOS tsat_conc : ID ':' VALts : ts tts : PONTO tt : VAL at_tsat_ts : at_ts at_tat_ts : at_t : PLUS ID DOIS_PONTOS VAL"
     
-_lr_action_items = {'@':([0,4,5,7,9,10,11,16,17,18,20,21,22,23,27,],[6,6,-6,-8,6,-5,-7,-10,-9,-12,-11,-15,-13,-14,-16,]),'ID':([0,4,5,7,9,10,11,16,17,18,20,21,22,23,24,27,],[8,8,-6,-8,8,-5,-7,-10,-9,-12,-11,-15,-13,-14,25,-16,]),'$end':([1,2,3,4,5,7,10,11,14,16,17,18,20,21,22,23,27,],[0,-1,-3,-4,-6,-8,-5,-7,-2,-10,-9,-12,-11,-15,-13,-14,-16,]),'LINHA_B':([2,3,4,5,7,10,11,14,16,17,18,20,21,22,23,27,],[9,-3,-4,-6,-8,-5,-7,-2,-10,-9,-12,-11,-15,-13,-14,-16,]),'ID_LING':([6,],[12,]),':':([8,12,25,],[13,15,26,]),'VAL':([13,19,26,],[16,21,27,]),'-':([15,17,18,20,21,22,23,27,],[19,19,-12,-11,-15,-13,-14,-16,]),'+':([21,22,23,27,],[-15,24,-14,-16,]),}
+_lr_action_items = {'ID_LING':([0,10,11,],[8,8,8,]),'ID':([0,10,11,24,],[9,9,9,25,]),'$end':([1,2,3,4,5,6,7,14,15,16,18,19,20,21,22,23,27,],[0,-1,-3,-4,-6,-7,-8,-2,-5,-9,-10,-11,-15,-12,-13,-14,-16,]),'LINHA_B':([2,3,4,5,6,7,14,15,16,18,19,20,21,22,23,27,],[10,-3,-4,-6,-7,-8,-2,-5,-9,-10,-11,-15,-12,-13,-14,-16,]),'\n':([4,5,6,7,15,16,18,19,20,21,22,23,27,],[11,-6,-7,-8,-5,-9,-10,-11,-15,-12,-13,-14,-16,]),'DOIS_PONTOS':([8,25,],[12,26,]),':':([9,],[13,]),'PONTO':([12,],[17,]),'VAL':([13,16,17,19,20,21,22,23,26,27,],[18,20,20,-11,-15,-12,-13,-14,27,-16,]),'PLUS':([20,22,23,27,],[-15,24,-14,-16,]),}
 
 _lr_action = {}
 for _k, _v in _lr_action_items.items():
@@ -17,7 +17,7 @@ for _k, _v in _lr_action_items.items():
       _lr_action[_x][_k] = _y
 del _lr_action_items
 
-_lr_goto_items = {'dic':([0,],[1,]),'es':([0,],[2,]),'e':([0,9,],[3,14,]),'items':([0,9,],[4,4,]),'item':([0,4,9,],[5,10,5,]),'at_conc':([0,4,9,],[7,7,7,]),'ling':([6,],[11,]),'ts':([15,],[17,]),'t':([15,17,],[18,20,]),'at_ts':([21,],[22,]),'at_t':([22,],[23,]),}
+_lr_goto_items = {'dic':([0,],[1,]),'es':([0,],[2,]),'e':([0,10,],[3,14,]),'items':([0,10,],[4,4,]),'item':([0,10,11,],[5,5,15,]),'ling':([0,10,11,],[6,6,6,]),'at_conc':([0,10,11,],[7,7,7,]),'ts':([12,],[16,]),'t':([16,17,],[19,21,]),'at_ts':([20,],[22,]),'at_t':([22,],[23,]),}
 
 _lr_goto = {}
 for _k, _v in _lr_goto_items.items():
@@ -28,19 +28,19 @@ del _lr_goto_items
 _lr_productions = [
   ("S' -> dic","S'",1,None,None,None),
   ('dic -> es','dic',1,'p_1','parser.py',6),
-  ('es -> es LINHA_B e','es',3,'p_2','parser.py',10),
-  ('es -> e','es',1,'p_3','parser.py',14),
-  ('e -> items','e',1,'p_4','parser.py',18),
-  ('items -> items item','items',2,'p_5','parser.py',22),
-  ('items -> item','items',1,'p_6','parser.py',26),
-  ('item -> @ ling','item',2,'p_7','parser.py',30),
-  ('item -> at_conc','item',1,'p_8','parser.py',34),
-  ('ling -> ID_LING : ts','ling',3,'p_9','parser.py',38),
-  ('at_conc -> ID : VAL','at_conc',3,'p_10','parser.py',42),
-  ('ts -> ts t','ts',2,'p_11','parser.py',48),
-  ('ts -> t','ts',1,'p_12','parser.py',52),
-  ('t -> - VAL at_ts','t',3,'p_13','parser.py',56),
-  ('at_ts -> at_ts at_t','at_ts',2,'p_14','parser.py',60),
-  ('at_ts -> <empty>','at_ts',0,'p_15','parser.py',64),
-  ('at_t -> + ID : VAL','at_t',4,'p_16','parser.py',67),
+  ('es -> es LINHA_B e','es',3,'p_2','parser.py',11),
+  ('es -> e','es',1,'p_3','parser.py',16),
+  ('e -> items','e',1,'p_4','parser.py',21),
+  ('items -> items \n item','items',3,'p_5','parser.py',26),
+  ('items -> item','items',1,'p_6','parser.py',31),
+  ('item -> ling','item',1,'p_7','parser.py',36),
+  ('item -> at_conc','item',1,'p_8','parser.py',41),
+  ('ling -> ID_LING DOIS_PONTOS ts','ling',3,'p_9','parser.py',46),
+  ('at_conc -> ID : VAL','at_conc',3,'p_10','parser.py',51),
+  ('ts -> ts t','ts',2,'p_11','parser.py',57),
+  ('ts -> PONTO t','ts',2,'p_12','parser.py',62),
+  ('t -> VAL at_ts','t',2,'p_13','parser.py',67),
+  ('at_ts -> at_ts at_t','at_ts',2,'p_14','parser.py',72),
+  ('at_ts -> <empty>','at_ts',0,'p_15','parser.py',77),
+  ('at_t -> PLUS ID DOIS_PONTOS VAL','at_t',4,'p_16','parser.py',82),
 ]

@@ -1,10 +1,7 @@
 Anatomía
 @ ga : 
-- á 
+. á 
     + genero : f 
 
 @ pt :
-- bom dia
-
-
-@ ling item LINHA_B item 
+. bom dia
