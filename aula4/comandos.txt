@@ -1,0 +1,15 @@
+tr 'A-Z' 'a-z' < Harry_Potter_e_A_Pedra_Filosofal.txt | tr -cs 'A-Za-zãáàéõóôêiçú' '\n' | sort | uniq -c | sort -n
+       
+tr 'A-Z' 'a-z' < Harry_Potter_e_A_Pedra_Filosofal.txt | tr -d '();:.,?!"' | tr ' ' '\n'  | sort | uniq -c | sort -n 
+
+rg -o '\w+' Harry_Potter_e_A_Pedra_Filosofal.txt | sort | uniq -c | sort -n
+(ripgrep - unicode)
+
+grep -Po '\w+|[.,?;!]+' Harry_Potter_e_A_Pedra_Filosofal.txt | sort | uniq -c | sort -n
+(nao tem cuidado com os acentos, n é unicode)
+
+rg -o '[A-Z]\w+' Harry_Potter_e_A_Pedra_Filosofal.txt | sort | uniq -c | sort -n
+
+rg -o '[A-Z]\w+( [A-Z]\w+)*' Harry_Potter_e_A_Pedra_Filosofal.txt | sort | uniq -c | sort -n
+
+

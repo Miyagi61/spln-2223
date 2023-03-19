@@ -1,0 +1,6 @@
+reconhecer o texto
+
+guardar em memoria
+
+gerar outras vistas (p.e. HTML)
+

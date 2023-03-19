@@ -1,0 +1,27 @@
+grupos de 3 elementos no maximo
+
+apresentacao de 5 min pra slides
+
+
+pegar em alguns modulos e junta-los
+para fazer um caso de estudo 
+relacionado com processamento de linguagens
+
+convencer q o modulo é interessante
+explicar o modulo
++
+aplicação do modulo
+
+entregar na primeira aula a seguir à pascoa!!!!
+
+apresentacao na quarta a seguir à pascoa!!!!
+
+-------------------------------------------------------
+
+p.e.
+
+bs4 - webscraping
+requests
+
+ir ao site da fnac, ver a evolução do preço da ps5
+

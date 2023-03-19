@@ -1,0 +1,15 @@
+tpc:
+
+avançar com a script, parer como uma ferramenta
+
+superferramenta ???
+se vier do word, tmb consegue processar
+
+opcao na linha de comando para dizer como sao os paragrafos p.e.
+
+aviso para o problema dos poemas -> obrigatorio marcar os poemas
+
+guardar as abreviaturas mais habituais 
+
+invocavel como um filtro (na linha de comando)
+tomar nota o q pareceu dificil

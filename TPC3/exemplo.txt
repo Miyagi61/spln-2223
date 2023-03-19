@@ -1,0 +1,14 @@
+- area : animal
+'pt' : 
+. touro
++ genero : masculino
+'en' :
+. bull
+
+--------------
+
+- area : acessorios
+'de' : 
+. regenschirm
++ genero : masculino
++ pessoa : singular
