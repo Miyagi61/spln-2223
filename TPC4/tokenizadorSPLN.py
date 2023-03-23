@@ -56,7 +56,13 @@ regex_frase = r'([^–].*?[\.?!])\s*(.*)'
 while (res != re.sub(regex_frase,r'\1\n\2',res,flags=re.UNICODE)):
     res = re.sub(regex_frase,r'\1\n\2',res,flags=re.UNICODE)
 
-regex_SR = r'(Sra?)\s*(\.)\n+(\w)'
-res = re.sub(regex_SR,r'\1\2 \3',res)
+
+regex_SR = r'(Sra?s?)\s+(\.)\n+(\w)'
+while (res != re.sub(regex_SR,r'\1\2 \3',res)):
+    res = re.sub(regex_SR,r'\1\2 \3',res)
+
+
+regex_Prof = r'(Profa?)\s*(\.)\n+(\w)'
+res = re.sub(regex_Prof,r'\1\2 \3',res)
 
 print(res)
