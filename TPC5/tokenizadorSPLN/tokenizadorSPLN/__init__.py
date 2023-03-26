@@ -6,6 +6,7 @@ __version__ = '0.3'
 
 import re
 from .utils import *
+import os
 
 list_poemas = []
 abrev_list = []
@@ -65,13 +66,13 @@ def treat_poems(procedure_dic,text):
         print(list_poemas)
     return text
 
-## TPC
-## TER UMA VERSAO INSTALAVEL DO TOKENIZER 
-## DICIONARIO DAS ABREVS A SEREM CARREGADOS DUM FICHEIRO ++
-## OPCAO NA LINHA DE COMANDOS PRA ESCOLHER A LINGUA (-l pt) 
-
 def get_abrev():
-    file = open('conf/abrev.txt','r')
+    # get the current directory
+    dirname = os.path.abspath(__file__)
+    # remove the file name from the path
+    dirname = dirname[:dirname.rfind('/')]
+    f_abrev = dirname+'/conf/abrev.txt'
+    file = open(f_abrev,'r')
     txt = file.read()
     ln_list = txt.split("#")
     ln_list = [ln.strip() for ln in ln_list if ln.strip()]
@@ -125,3 +126,10 @@ def tokenizer():
         utils.write_output(text)
 
     utils.print_errors()
+
+
+
+## TPC
+## TER UMA VERSAO INSTALAVEL DO TOKENIZER 
+## DICIONARIO DAS ABREVS A SEREM CARREGADOS DUM FICHEIRO ++
+## OPCAO NA LINHA DE COMANDOS PRA ESCOLHER A LINGUA (-l pt) ++

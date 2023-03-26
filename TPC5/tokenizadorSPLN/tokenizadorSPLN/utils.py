@@ -30,7 +30,6 @@ def write_output(output):
         file = open(procedure_dic['output'],'w')
         file.write(output)
 
-
 def register_error(error):
     """Register an error on the error stack"""
     errors.append(f'Error: {error}')
@@ -60,33 +59,6 @@ def get_first_word(arg):
     """Return flag from an argument (first word of the string)"""
     return re.sub(r'((\w|\.|_)+)\s*.*',r'\1',arg)
 
-def duplicate_flags(args):
-    """Checks for duplicate flags on initial arguments"""
-    n_flags = {}
-    for flag in flags_list:
-        n_flags[flag] = 0
-
-    for arg in args:
-        word = get_first_word(arg)
-        if word in flags_list:
-            n_flags[word] += 1
-
-    duplicate = False
-    for flag,n in n_flags.items():
-        if n > 1:
-            duplicate = True
-            register_error(f"Multiple {flag} used (2)")
-    return duplicate
-
-def process_flag(flag,arg):
-    """Process a flag, updating procedure_dic accordingly"""
-    rest = arg[len(flag):]
-    if flag == 'p':
-        procedure_dic['poems'] = True
-        update_files(rest,'input')
-    elif flag == 'o':
-        update_files(rest,'output')
-
 
 def process_arguments():
     """Processes and checks for errors on the initial arguments"""
@@ -95,7 +67,7 @@ def process_arguments():
                     description='Tokenizes a text file',
                     epilog='Work done in the context of the course (SPLN) of the Master in Informatics Engineering of the University of Minho (UMinho).')
     
-    parser.add_argument('-l', '--language', help='Language of the abbreviations used', default='pt')
+    parser.add_argument('-l', '--language', help='Language of the abbreviations used, if you want to add abreviations go to the <installation-folder>/conf/abrev.txt ', default='pt')
     parser.add_argument('-i', '--input', help='Input file', default='stdin')
     parser.add_argument('-o', '--output', help='Output file', default='stdout')
     
