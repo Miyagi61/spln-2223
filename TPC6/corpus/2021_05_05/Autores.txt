@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2021-05-05-Jose-Matos-Correia-4c12663c</url>
+            <authors>['José Matos Correia']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

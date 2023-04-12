@@ -1,0 +1,5 @@
+<title>Autores</title>
+            <url>https://tribuna.expresso.pt/autores/2021-08-17-Pedro-Barata-6b8be9b5</url>
+            <authors>['Pedro Barata']</authors>
+            
+            

@@ -1,0 +1,5 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2015-05-05-Rui-Miguel-Abreu-3ef8f071</url>
+            <authors>['Rui Miguel Abreu']</authors>
+            Rui Miguel Abreu Escreve sobre música desde 1989: passou pelo diário A Capital, pelo semanário Sete e agora assina textos na revista Blitz que, como se sabe, sai uma vez por mês. Está convencido que é esse o ritmo ideal.
+            

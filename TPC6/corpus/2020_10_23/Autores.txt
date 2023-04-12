@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2020-10-23-Paulo-Baldaia-3adcb094</url>
+            <authors>['Paulo Baldaia']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

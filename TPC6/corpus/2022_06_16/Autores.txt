@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2022-06-16-Catia-Barros-8c61cad2</url>
+            <authors>['Cátia Barros']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

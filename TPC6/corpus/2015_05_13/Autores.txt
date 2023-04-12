@@ -1,0 +1,5 @@
+<title>Autores</title>
+            <url>https://tribuna.expresso.pt/autores/2015-05-13-Antonio-Pedro-Ferreira</url>
+            <authors>['António Pedro Ferreira']</authors>
+            
+            

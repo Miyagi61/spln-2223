@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2015-05-06-Cristina-Margato-9f820e90</url>
+            <authors>['Cristina Margato']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

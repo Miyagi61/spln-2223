@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2020-02-14-Antonio-Pedro-Ferreira-bf2b0cc2</url>
+            <authors>['António Pedro Ferreira']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

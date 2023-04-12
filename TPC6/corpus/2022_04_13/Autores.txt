@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2022-04-13-Sofia-Correia-Baptista-63e87f49</url>
+            <authors>['Sofia Correia Baptista']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

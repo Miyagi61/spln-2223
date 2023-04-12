@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2016-09-16-Diogo-Pombo-091f6ea2</url>
+            <authors>['Diogo Pombo']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2021-03-02-Rita-Dinis-178641e3</url>
+            <authors>['Rita Dinis']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

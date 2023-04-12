@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2019-08-06-Ruben-Tiago-Pereira-440d918c</url>
+            <authors>['Rúben Tiago Pereira']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

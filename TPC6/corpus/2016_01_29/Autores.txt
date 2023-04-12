@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2016-01-29-Ricardo-Lourenco-6</url>
+            <authors>['Ricardo Lourenço']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

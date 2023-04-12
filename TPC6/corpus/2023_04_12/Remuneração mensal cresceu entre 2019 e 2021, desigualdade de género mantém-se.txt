@@ -1,0 +1,27 @@
+<title>Remuneração mensal cresceu entre 2019 e 2021, desigualdade de género mantém-se</title>
+            <url>https://expresso.pt/economia/trabalho/2023-04-12-Remuneracao-mensal-cresceu-entre-2019-e-2021-desigualdade-de-genero-mantem-se-230a13ab</url>
+            <authors>[]</authors>
+            Entre 2019 e 2021 houve um aumento das remunerações mensais dos trabalhadores portugueses, segundo os dados do Instituto Nacional de Estatística (INE), divulgados pela primeira vez esta quarta-feira.
+
+Os novos dados do Instituto Nacional de Estatística têm como base a declaração mensal de remunerações transmitidas pelas empresas à Autoridade Tributária, transmitida mensalmente ao INE por aquela entidade ao abrigo de um protocolo. A informação, que corresponde aos anos de 2019, 2020 e 2021, respeita a mais de 4 milhões de trabalhadores nesses três anos.
+
+Segundo o gabinete estatístico, em 2019, o intervalo de remuneração que agregava a maior proporção de trabalhadores era o dos 750 euros a menos de 800 euros, mas em 2021 já era dos 850 euros a 900 euros. De notar que, entre os três anos houve uma subida do salário mínimo, que pode ter alguma influência nesta conclusão.
+
+“É ainda possível observar um aumento da média (que se encontra na barra contornada em linha contínua) de remuneração bruta mensal nos anos em análise do intervalo remuneratório de 1300€ a 1350€ para o de 1400€ a 1450€”, indica o INE. Mais concretamente, a média encontrava-se nos 1347 euros em 2019 e nos 1445 euros em 2021.
+
+Mas as diferenças entre atividades económicas são visíveis. Os dados indicam que no setor de alojamento, restauração e similares 50% dos trabalhadores recebiam até ao intervalo de 800 a 850 euros, encontrando-se a remuneração média nestas atividades entre os 850 e os 900 euros. Por outro lado, nas atividades financeiras e de seguros a mediana situava-se entre 2350 e 2400 euros, e a média entre os 2850 e os 2900 euros.
+
+Apesar da população estar a ganhar mais que em 2019, a desigualdade de géneros mantém-se no final do mês. Em 2021, 60% das mulheres empregadas auferiram até 1122 euros brutos por mês, enquanto 60% dos homens receberam 1361 euros por mês.
+
+Desigualdade de distribuição de rendimentos diminuiu
+
+Nos dados divulgados esta quarta-feira, o INE nota ainda que houve um ligeiro desagravamento da desigualdade de distribuição de rendimentos entre 2019 e 2021.
+
+Para chegar a esta conclusão, o INE usou dois coeficientes diferentes. O primeiro (coeficiente de Gini) recuou de 0,368 em 2019 para 0,361 em 2021 - quanto mais próximo de 0, menor será a desigualdade. O INE destaca a Região Autónoma dos Açores, onde este coeficiente caiu de 0,365 em 2019 para 0,343 em 2021; e, por razões opostas, o setor da administração pública, defesa e segurança social, onde a desigualdade aumentou de 0,349 para 0,356.
+
+O segundo coeficiente tem o nome de de Atkinson, que o INE dividiu por vários parâmetros e em todos eles houve “um ligeiro desagravamento da desigualdade entre 2019 e 2021, independentemente do parâmetro de aversão à desigualdade utilizado”. Neste caso, o gabinete destaca que os trabalhadores no setor primário viram um agravamento da desigualdade em todos os parâmetros.
+
+O gabinete estatístico mede ainda a desigualdade por rácios, nomeadamente um dos mais utilizados o rácio S80/S20 (compara o somatório da remuneração bruta mensal dos 20% da população com maiores rendimentos com o somatório da remuneração bruta mensal dos 20% da população com menores rendimentos). Neste caso, em 2019 o rácio fixou-se em 6 e em 2021 atingiu os 5,7 - quanto maior é este indicador, maior é a desigualdade na distribuição do rendimento entre a população.
+
+Contudo, o rácio S95/S05 (que compara o rendimento dos 5% dos trabalhadores com remunerações mais elevadas com os 5% com remunerações mais baixas) diminuiu no acumulado de 2019 a 2021, mas de 2020 para 2021 houve um aumento.
+            

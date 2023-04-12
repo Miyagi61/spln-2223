@@ -1,0 +1,5 @@
+<title>Autores</title>
+            <url>https://tribuna.expresso.pt/autores/2016-05-04-Duarte-Gomes-b2972939</url>
+            <authors>['Duarte Gomes']</authors>
+            
+            

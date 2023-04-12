@@ -1,0 +1,47 @@
+<title>ESA envia esta quinta-feira satélite para Júpiter e tem um português como diretor de voo</title>
+            <url>http://expresso.pt/sociedade/ciencia/2023-04-11-ESA-envia-esta-quinta-feira-satelite-para-Jupiter-e-tem-um-portugues-como-diretor-de-voo-b708a5bb</url>
+            <authors>[]</authors>
+            Será a primeira vez que um satélite artificial orbitará uma lua de outro planeta.
+
+O satélite deverá chegar ao 'gigante' gasoso passados oito anos, em julho de 2031, fazer 35 voos de aproximação às luas geladas e alcançar Ganimedes em dezembro de 2034.
+
+JUICE (JUpiter ICy moons Explorer, Explorador das Luas Geladas de Júpiter) irá estudar o maior planeta do Sistema Solar e as luas Europa, Ganimedes e Calisto, onde os cientistas pensam que possa existir água líquida (elemento fundamental para a vida tal como se conhece) sob as crostas de gelo à superfície.
+
+A missão, que esteve para ser lançada em 2022, tem Bruno Sousa como diretor de operações de voo e o satélite inclui componentes fabricados pelas empresas LusoSpace, Active Space Technologies, Deimos Engenharia e FHP - Frezite High Performance e um instrumento concebido em parte pelo LIP - Laboratório de Instrumentação e Física Experimental de Partículas.
+
+O lançamento, a partir da base espacial da ESA em Kourou, na Guiana Francesa, onde Portugal estará representado pelo presidente da agência espacial Portugal Space, Ricardo Conde, será feito às 13h15 (hora de Lisboa) a bordo de um foguetão europeu Ariane 5.
+
+A Agência Espacial Europeia (ESA) vai lançar na quinta-feira um satélite que irá estudar Júpiter e três das suas maiores luas, usando ciência e tecnologia 'made in Portugal' e tendo um português como diretor de operações de voo.
+
+Espera-se que a missão da ESA, que custou cerca de 1,6 mil milhões de euros e teve a colaboração das agências espaciais norte-americana (NASA), japonesa (JAXA) e israelita (ISA) em termos de instrumentação e 'hardware', termine em setembro de 2035.
+
+Os primeiros dados científicos são expectáveis em 2032.
+
+Júpiter é 11 vezes maior do que a Terra e é composto maioritariamente por gás, como o Sol. Ganimedes é a maior das luas do Sistema Solar e tem um grande oceano sob a sua superfície.
+
+A missão da ESA foi concebida para averiguar se haverá sítios em redor de Júpiter e no interior das luas geladas com as condições necessárias (água, energia, estabilidade e elementos biológicos) para suportar vida.
+
+À Deimos Engenharia coube a tarefa de garantir que o satélite não atingirá "em circunstância alguma" nem o planeta Marte nem a lua Europa, que estão, segundo explicou a empresa à Lusa, na "categoria de proteção planetária máxima para corpos extraterrestres", que podem "potencialmente albergar vida".
+
+Por outro lado, o trabalho da companhia "consistiu em melhorar a estratégia de navegação autónoma de base da missão durante o voo de passagem por Europa e durante a fase orbital de Ganimedes".
+
+Um dos vários instrumentos que o satélite transporta é um monitor de radiação desenvolvido pelo LIP e Efacec, em cooperação com a empresa norueguesa Ideas e o instituto de investigação suíço Paul Scherrer.
+
+A investigadora Paula Gonçalves, que coordenou no LIP o projeto, esclareceu à Lusa que o instrumento "serve para medir o ambiente de radiação ionizante" a que o satélite vai estar sujeito durante a sua trajetória, "podendo enviar sinais de aviso para que se possam proteger os outros detetores e sistemas" do satélite.
+
+O monitor de radiação, sendo um detetor de partículas energéticas, "permite também efetuar medidas científicas e complementar as medidas de outros instrumentos" a bordo do satélite.
+
+O LIP esteve, ainda, na liderança de um projeto da ESA de testes de irradiação de componentes eletrónicos que integram o satélite, por forma a assegurar que estavam preparados para "sobreviver às elevadas doses de radiação esperadas na magnetosfera de Júpiter".
+
+Outro dos instrumentos do JUICE é um magnetómetro, um aparelho que, no caso, vai caracterizar o intenso campo magnético de Júpiter e a sua interação com o da lua Ganimedes.
+
+A LusoSpace desenvolveu uma bobina que, conforme sintetizou à Lusa o presidente-executivo da empresa, Ivo Yves Vieira, gera um campo magnético "que será uma referência para o instrumento de medida do campo magnético de Jupiter".
+
+Além de escudos que protegem os componentes eletrónicos sensíveis da elevada radiação, de painéis solares de alimentação de energia e de uma camada isolante contra as temperaturas extremas, o satélite dispõe de uma antena para enviar dados para a Terra e de um computador para resolver alguns problemas de modo independente.
+
+A antena tem um revestimento produzido pela empresa portuense FHP e o seu mecanismo de funcionamento foi desenvolvido pela Active Space Technologies, com sede em Coimbra.
+
+O satélite JUICE será a última missão enviada pela ESA desde a Guiana Francesa a bordo de um foguetão Ariane 5, que será substituído pelo modelo Ariane 6.
+
+Atualmente, o único satélite artificial em órbita de Júpiter é o Juno, da NASA.
+            
