@@ -1,0 +1,5 @@
+<title>Autores</title>
+            <url>https://tribuna.expresso.pt/autores/2023-04-23-Rui-Vitoria-a8c0e736</url>
+            <authors>['Rui Vitória']</authors>
+            
+            

@@ -1,5 +1,5 @@
 <title>Autores</title>
-            <url>http://expresso.pt/autores/2018-05-08-Vitor-Matos</url>
+            <url>https://expresso.pt/autores/2018-05-08-Vitor-Matos</url>
             <authors>['Vítor Matos']</authors>
             Insira o código presente na Revista E
 

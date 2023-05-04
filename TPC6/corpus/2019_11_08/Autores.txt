@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2019-11-08-Gorka-Castillo-em-Madrid-76bc613b</url>
+            <authors>['Gorka Castillo', 'Em Madrid']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

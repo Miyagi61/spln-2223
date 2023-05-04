@@ -6,7 +6,7 @@ import os
 import datetime
 import re
 
-path = os.getcwd()
+path = "/home/miyagi/Desktop/spln-2223/TPC6"
 print(path)
 
 url = "https://expresso.pt/"

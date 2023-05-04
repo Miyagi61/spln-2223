@@ -1,0 +1,17 @@
+<title>Google anuncia que já é possível entrar nos seus serviços sem palavra-passe</title>
+            <url>http://expresso.pt/sociedade/tecnologia/2023-05-04-Google-anuncia-que-ja-e-possivel-entrar-nos-seus-servicos-sem-palavra-passe-e33fc96a</url>
+            <authors>[]</authors>
+            O Google revelou que, a partir desta quarta-feira, já é possível fazer 'login' nos seus serviços com "passkeys", um sistema semelhante ao que é usado para desbloquear os telemóveis, através de um pin, impressão digital ou identificação facial.
+
+Com este novo sistema, a empresa norte-americana pretende facilitar o acesso a serviços como o Gmail ou o YouTube pelos utilizadores nas suas contas pessoais, e também em maior segurança, embora o tradicional sistema de "passwords" também se mantenha, para já, a funcionar.
+
+Para aceder ao novo método, o utilizador terá de certificar o telemóvel ou outro dispositivo fiável a partir do qual costuma aceder aos serviços.
+
+Para isso basta fazer login na sua conta Google pessoal, e visitar a página g.co/passkeys, clicando então na opção "utilizar chaves de acesso".
+
+Se as chaves de acesso tiverem sido configuradas corretamente, entrar no Google exigirá a partir daí apenas um endereço de e-mail, após o que o usuário receberá uma mensagem no dispositivo a pedir uma impressão digital, o seu rosto ou um PIN.
+
+Segundo a empresa, é possível utilizar este sistema em 'iPhones', no sistema 'Android', em 'Macs' e em computadores com 'Windows'. Também é possível partilhar a "passkey" com vários dispositivos do mesmo utilizador.
+
+O Google destacou que o novo sistema é mais seguro e tem maior fiabilidade, uma vez que as senhas são facilmente roubadas por 'hackers' ou comprometidas em violações de segurança, além de frequentemente serem esquecidas pelos utilizadores, que têm tendência a escolher 'passwords' simples para se poderem lembrar. Já as impressões digitais ou o reconhecimento facial são únicas e de difícil reprodução.
+            

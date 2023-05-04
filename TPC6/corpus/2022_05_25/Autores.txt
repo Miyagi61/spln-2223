@@ -1,5 +1,5 @@
 <title>Autores</title>
-            <url>https://expresso.pt/autores/2022-05-25-Rui-Oliveira-c6c2b18e</url>
+            <url>http://expresso.pt/autores/2022-05-25-Rui-Oliveira-c6c2b18e</url>
             <authors>['Rui Oliveira']</authors>
             Insira o código presente na Revista E
 

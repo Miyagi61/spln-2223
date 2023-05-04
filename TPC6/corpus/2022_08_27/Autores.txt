@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2022-08-27-Rui-Oliveira-b578ad56</url>
+            <authors>['Rui Oliveira']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

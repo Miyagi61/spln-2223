@@ -1,0 +1,15 @@
+<title>O “padrinho da inteligência artificial” sai da Google e avisa: “em breve”, os 'chatbots' podem ser mais inteligentes do que os humanos</title>
+            <url>http://expresso.pt/sociedade/tecnologia/2023-05-02-O-padrinho-da-inteligencia-artificial-sai-da-Google-e-avisa-em-breve-os-chatbots-podem-ser-mais-inteligentes-do-que-os-humanos-2c82af99</url>
+            <authors>[]</authors>
+            Geoffrey Hinton, conhecido como o “Padrinho da Inteligência Artificial (IA)”, despediu-se da empresa norte-americana Google, onde trabalhava há mais de dez anos, para poder alertar de forma mais livre para os perigos da tecnologia que ajudou a desenvolver, avançou o The New York Times.
+
+Hinton, de 75 anos, é um dos principais responsáveis pelos sistemas digitais que servem de motor a programas como o ChatGPT, a famosa plataforma de texto inteligente alimentada por IA.
+
+Após dedicar uma vida ao estudo e à aplicação prática de redes neurais, sistemas matemáticos complexos que aprendem através da análise de dados, sejam eles fotografias ou texto, o psicólogo cognitivo e cientista de computação britânico teve o seu primeiro grande sucesso em 2012. Nesse ano, juntamente com dois estudantes da Universidade de Toronto, no Canadá, onde lecionava, construiu um sistema com a capacidade de analisar milhares de fotografias e ensinar-se a identificar objetos comuns, como árvores e automóveis. Por essa descoberta, receberia em 2018 um Prémio Turing, o “Nobel da computação”, a culminação de uma longa carreira académica que começou ainda nos seus dias de estudante na Universidade de Edimburgo, na Escócia.
+
+Apercebendo-se do seu potencial transformador no mercado da IA, a Google comprou a empresa estabelecida por Hinton por 44 milhões de dólares (40 milhões de euros), aplicou o seu sistema a uma vasta gama de produtos e abriu um laboratório de IA em Toronto.
+
+Agora, ao diário norte-americano The New York Times e ao canal britânico BBC, o cientista mostra-se arrependido do seu papel na edificação de uma tecnologia cujos perigos são “assustadores”. Os ‘chatbots’ mais avançados, tais como o ChatGPT ou o Bard, produzido pela Google, “ainda não são mais inteligentes do que nós, mas penso que em breve poderão vir a sê-lo", disse Hinton à BBC.
+
+“Neste momento, o que estamos a ver é que programas como o GPT-4 ultrapassam uma pessoa na quantidade de conhecimentos gerais que têm, e ultrapassam-na por muito”, continuou. "E dado o ritmo do progresso, espera-se que as coisas evoluam muito rapidamente. Por isso, temos de nos preocupar com isto".
+            

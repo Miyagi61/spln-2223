@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2023-01-09-Joao-Pacheco-3d8c97ba</url>
+            <authors>['João Pacheco']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

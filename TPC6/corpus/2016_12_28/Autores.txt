@@ -1,5 +1,5 @@
 <title>Autores</title>
-            <url>https://expresso.pt/autores/2016-12-28-SIC-Noticias-2197989a</url>
+            <url>http://expresso.pt/autores/2016-12-28-SIC-Noticias-2197989a</url>
             <authors>['Sic Notícias']</authors>
             Insira o código presente na Revista E
 

@@ -1,5 +1,5 @@
 <title>Autores</title>
-            <url>https://expresso.pt/autores/2015-05-20-Ana-Baiao-2a7ff2bc</url>
+            <url>http://expresso.pt/autores/2015-05-20-Ana-Baiao-2a7ff2bc</url>
             <authors>['Ana Baião']</authors>
             Insira o código presente na Revista E
 

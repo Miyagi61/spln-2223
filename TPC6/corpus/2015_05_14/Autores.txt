@@ -1,6 +1,6 @@
 <title>Autores</title>
-            <url>http://expresso.pt/autores/2015-05-14-Hugo-Seneca-56c62825</url>
-            <authors>['Hugo Séneca']</authors>
+            <url>https://expresso.pt/autores/2015-05-14-Conceicao-Antunes-3a3510ba</url>
+            <authors>['Conceição Antunes']</authors>
             Insira o código presente na Revista E
 
 para aceder a conteúdos exclusivos

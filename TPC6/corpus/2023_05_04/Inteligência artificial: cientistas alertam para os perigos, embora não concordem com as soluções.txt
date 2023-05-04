@@ -1,0 +1,35 @@
+<title>Inteligência artificial: cientistas alertam para os perigos, embora não concordem com as soluções</title>
+            <url>http://expresso.pt/sociedade/tecnologia/2023-05-04-Inteligencia-artificial-cientistas-alertam-para-os-perigos-embora-nao-concordem-com-as-solucoes-83d68cf0</url>
+            <authors>[]</authors>
+            Os cientistas da computação que ajudaram a construir as bases da tecnologia de inteligência artificial (IA) atualmente em uso estão agora a alertar para os seus perigos, embora não concordem sobre quais são ou como evitá-los.
+
+A sobrevivência da humanidade está ameaçada quando "coisas inteligentes nos podem enganar", alertou Geoffrey Hinton, considerado o 'padrinho' da IA, durante uma conferência que decorreu esta quarta-feira no Instituto de Tecnologia de Massachusetts (MIT, na sigla em inglês), nos Estados Unidos.
+
+"Isto pode-nos manter durante algum tempo, para manter as fábricas a funcionarem. Mas depois disso, talvez não", frisou.
+
+Depois de se despedir da Google para poder falar com mais liberdade, Hinton, de 75 anos, referiu que mudou recentemente a sua opinião sobre as capacidades de raciocínio dos sistemas de computador que passou a vida inteira a investigar.
+
+"Estas coisas terão aprendido connosco, lendo todos os romances que já existiram e tudo o que Maquiavel já escreveu, como manipular as pessoas", realçou Hinton, dirigindo-se a uma multidão que participava na conferência.
+
+"Mesmo que não possam puxar as alavancas diretamente, certamente podem-nos fazer puxar as alavancas", acrescentou.
+
+Sobre possíveis soluções, Geoffrey Hinton destacou que não as tem, nem tem a certeza se existem, noticiou a agência Associated Press (AP).
+
+Yoshua Bengio, outro pioneiro da IA, co-vencedor com Hinton do principal prémio de ciência da computação, disse à AP esta quarta-feira que está "bastante alinhado" com as preocupações de Hinton, embora tema que dizer simplesmente que a humanidade "está condenada" não vai ajudar.
+
+"A principal diferença, eu diria, é que ele é uma pessoa meio pessimista, e eu sou mais otimista", frisou Bengio, professor da Universidade de Montreal, no Canadá.
+
+"Acho que os perigos -- os de curto prazo, os de longo prazo -- são muito sérios e precisam ser levados a sério não apenas por alguns investigadores, mas também pelos governos e pela população", alertou ainda.
+
+Há vários sinais de que os governos estão atentos, como o caso da Casa Branca, que convocou os CEO da Google, da Microsoft e da OpenAI, fabricante do ChatGPT, para reunirem hoje com a vice-Presidente Kamala Harris, no que está a ser descrita pelas autoridades como uma discussão franca sobre como mitigar os riscos de curto e longo prazo desta tecnologia.
+
+As autoridades europeias também estão a acelerar as negociações para aprovar novas regras abrangentes de IA.
+
+Outros temem que a conversa sobre os perigos futuros em torno de máquinas sobre-humanas - que não existem -- estejam a distrair as tentativas de estabelecer salvaguardas práticas nos atuais produtos de IA que não são regulamentados e demonstraram causar problemas no mundo real.
+
+Margaret Mitchell, ex-líder da equipa de ética de IA do Google, destacou não perceber porque Hinton não se manifestou durante a década em que teve uma posição de poder no Google.
+
+Bengio tem expressado preocupação durante anos sobre os riscos de curto prazo da IA, incluindo a desestabilização do mercado de trabalho, armamento automatizado e os perigos de conjuntos de dados tendenciosos.
+
+Mas estas preocupações aumentaram recentemente, levando Bengio a juntar-se a outros cientistas e líderes de empresas de tecnologia, como Elon Musk e o cofundador da Apple, Steve Wozniak, que pedem uma pausa de seis meses no desenvolvimento de sistemas de IA mais poderosos do que o modelo mais recente da OpenAI, o GPT-4.
+            

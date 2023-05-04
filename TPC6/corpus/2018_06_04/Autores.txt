@@ -1,5 +1,5 @@
 <title>Autores</title>
-            <url>https://expresso.pt/autores/2018-06-04-Elisabete-Miranda-8e241d16</url>
+            <url>http://expresso.pt/autores/2018-06-04-Elisabete-Miranda-8e241d16</url>
             <authors>['Elisabete Miranda']</authors>
             Insira o código presente na Revista E
 

@@ -1,6 +1,6 @@
 <title>Diogo Ribeiro: o mini-documentário com o prodígio da natação portuguesa</title>
             <url>https://expresso.pt/multimedia/video/2022-10-23-Diogo-Ribeiro-o-mini-documentario-com-o-prodigio-da-natacao-portuguesa-4649e60f</url>
-            <authors>['Reportagem Vídeo', 'Manuela Goucha Soares', 'João Santos Duarte', 'Teresa Amaro Ribeiro', 'Sic Notícias']</authors>
+            <authors>['Reportagem Vídeo', 'Rúben Tiago Pereira', 'Sic Notícias', 'Teresa Amaro Ribeiro']</authors>
             NUNO BOTELHO
 
 Exclusivo Vídeo Diogo Ribeiro: o mini-documentário com o prodígio da natação portuguesa

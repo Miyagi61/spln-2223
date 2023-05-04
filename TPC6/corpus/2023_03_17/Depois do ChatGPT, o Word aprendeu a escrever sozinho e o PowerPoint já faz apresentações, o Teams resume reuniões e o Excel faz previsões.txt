@@ -1,0 +1,5 @@
+<title>Depois do ChatGPT, o Word aprendeu a escrever sozinho e o PowerPoint já faz apresentações, o Teams resume reuniões e o Excel faz previsões</title>
+            <url>https://expresso.pt/revista/vicios/tecnologia/2023-03-17-Depois-do-ChatGPT-o-Word-aprendeu-a-escrever-sozinho-e-o-PowerPoint-ja-faz-apresentacoes-o-Teams-resume-reunioes-e-o-Excel-faz-previsoes-6dad78ee</url>
+            <authors>[]</authors>
+            A OpenAI cumpriu a promessa com o lançamento do modelo de linguagem GPT-4 e os primeiros efeitos não tardaram a ser conhecidos. Nos dias que se seguiram à nova versão da tecnologia que suporta o ChatGPT, a Microsoft anunciou o Bing Chat, que permite pesquisas na Internet em modo de diálogo, e a inclusão do GPT-4 nas várias ferramentas da suite Microsoft 365.
+            

@@ -1,5 +1,5 @@
 <title>Política de privacidade</title>
-            <url>http://expresso.pt/informacao/PolticadePrivacidade/2018-10-07-Politica-de-privacidade-97095c24</url>
+            <url>https://expresso.pt/informacao/PolticadePrivacidade/2018-10-07-Politica-de-privacidade</url>
             <authors>[]</authors>
             Para podermos prestar-lhe os nossos serviços ou enviar-lhe as nossas comunicações, necessitamos de tratar os seus dados pessoais. Para facilidade de compreensão do fundamento e das condições do tratamento dos seus dados pessoais, optámos por enunciar a informação necessária na tabela que se segue:
 

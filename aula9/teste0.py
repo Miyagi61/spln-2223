@@ -24,8 +24,8 @@ fd = open(input, 'r')
 for line in fd:
     words = line.split(" ")
     if len(words) == 3:
-        w1, w2, w3 = words
-        print(model.wv.most_similar(positive=[w1, w3], negative=[w2], topn=10))
+        w1, w2, w3 = [w.strip() for w in words]
+        print(model.wv.most_similar(positive=[w1, w3], negative=[w2], topn=5))
 
 
 

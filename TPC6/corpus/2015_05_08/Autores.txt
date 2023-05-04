@@ -1,0 +1,5 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2015-05-08-Jose-Soeiro-73b8e705</url>
+            <authors>['José Soeiro']</authors>
+            José Soeiro Tem 30 anos, é sociólogo, ativista e deputado do Bloco de Esquerda. É do Porto. Realizou uma tese de doutoramento sobre transformações no trabalho e mobilizações de precários em Portugal, na Faculdade de Economia da Universidade de Coimbra. Publicou, com Miguel Cardina e Nuno Serra, o livro “Não acredite em tudo o que pensa. Mitos do senso comum na era da austeridade”, pela Tinta-da-China.
+            

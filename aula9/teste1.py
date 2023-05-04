@@ -21,12 +21,13 @@ model = Word2Vec.load(modelArg)
 
 fd = open(input, 'r')
 
+print("Similaridades:")
 for line in fd:
     words = line.split(" ")
     if len(words) == 3:
-        w1, w2, w3 = words
-        print(model.wv.similarity(w1,w2))
-        print(model.wv.similarity(w1,w3))
+        w1, w2, w3 = [w.strip() for w in words]
+        print(f"{w1} : {w2} ->" ,model.wv.similarity(w1,w2))
+        print(f"{w1} : {w3} ->" ,model.wv.similarity(w1,w3))
 
 
 

@@ -1,6 +1,6 @@
 <title>Autores</title>
-            <url>https://expresso.pt/autores/2015-05-02-Jose-Cardoso-9ebdf86c</url>
-            <authors>['José Cardoso']</authors>
+            <url>http://expresso.pt/autores/2015-05-02-Sofia-Miguel-Rosa-e5858fdc</url>
+            <authors>['Sofia Miguel Rosa']</authors>
             Insira o código presente na Revista E
 
 para aceder a conteúdos exclusivos

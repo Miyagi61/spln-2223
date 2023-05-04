@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2023-05-03-Andre-Baptista-3c2d85c4</url>
+            <authors>['André Baptista']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

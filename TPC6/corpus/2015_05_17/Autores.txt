@@ -1,5 +1,5 @@
 <title>Autores</title>
-            <url>http://expresso.pt/autores/2015-05-17-Nuno-Botelho-14506ec3</url>
+            <url>https://expresso.pt/autores/2015-05-17-Nuno-Botelho-14506ec3</url>
             <authors>['Nuno Botelho']</authors>
             Insira o código presente na Revista E
 

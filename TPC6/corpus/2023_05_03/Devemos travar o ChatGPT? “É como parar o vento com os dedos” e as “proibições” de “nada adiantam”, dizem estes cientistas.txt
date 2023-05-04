@@ -1,0 +1,5 @@
+<title>Devemos travar o ChatGPT? “É como parar o vento com os dedos” e as “proibições” de “nada adiantam”, dizem estes cientistas</title>
+            <url>http://expresso.pt/sociedade/tecnologia/2023-05-03-Devemos-travar-o-ChatGPT--E-como-parar-o-vento-com-os-dedos-e-as-proibicoes-de-nada-adiantam-dizem-estes-cientistas-d49265b2</url>
+            <authors>[]</authors>
+            Ter embedding faz toda a diferença. Na Inteligência Artificial Generativa (GPT) é mesmo o primeiro passo para que uma plataforma como o ChatGPT consiga mapear cada palavra com um máximo de 12 mil “dimensões”, que permitem estabelecer relações entre significados e outras relações gramaticais – e propor as palavras mais indicadas para cada frase ou contexto.
+            

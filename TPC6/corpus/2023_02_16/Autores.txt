@@ -1,5 +1,5 @@
 <title>Autores</title>
-            <url>https://expresso.pt/autores/2023-02-16-Salome-Rita-6de7d7dc</url>
+            <url>http://expresso.pt/autores/2023-02-16-Salome-Rita-6de7d7dc</url>
             <authors>['Salomé Rita']</authors>
             Insira o código presente na Revista E
 

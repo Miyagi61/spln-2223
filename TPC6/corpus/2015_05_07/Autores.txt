@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2015-05-07-Vasco-Baptista-Marques-0a53a406</url>
+            <authors>['Vasco Baptista Marques']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

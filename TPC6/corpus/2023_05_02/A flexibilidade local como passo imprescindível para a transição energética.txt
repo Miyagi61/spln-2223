@@ -1,0 +1,33 @@
+<title>A flexibilidade local como passo imprescindível para a transição energética</title>
+            <url>https://expresso.pt/opiniao/2023-05-02-A-flexibilidade-local-como-passo-imprescindivel-para-a-transicao-energetica-7e60725f</url>
+            <authors>['Diretora De Inovação Estratégica Da Cleanwatts']</authors>
+            É urgente realizar uma transição energética, dos combustíveis fósseis para a utilização de energias renováveis. À necessidade de reduzir as emissões juntam-se os riscos geostratégicos de combustíveis produzidos em zonas hostis. Já não se põe sequer a questão do preço, pois as energias renováveis são hoje muito competitivas.
+
+O que é que impede, então, uma transição energética mais rápida? Os principais obstáculos residem na forma como a rede elétrica foi organizada ao longo dos tempos.
+
+A eletricidade é um bem muito peculiar, por ser difícil e dispendiosa de armazenar. A eletricidade é, talvez, o bem mais perecível. Tem, normalmente, de ser consumida no instante em que é produzida, sob pena de ser desperdiçada. Por outro lado, o consumo é muito inconstante. Ao longo do dia, ele varia com os turnos fabris, os horários dos serviços ou os consumos residenciais. Ao longo do ano, varia com as necessidades de aquecimento e arrefecimento dos edifícios. Essa variabilidade não significa imprevisibilidade, pelo que a rede elétrica foi concebida para lidar com essa procura variável por meio de uma oferta controlável.
+
+A rede elétrica foi também concebida de forma centralizada. A produção de eletricidade em grandes centrais beneficiou de economias de escala, pelo que a rede rapidamente evoluiu para uma rede unidirecional, em que um número reduzido de grandes centrais satisfazia o grosso da procura elétrica, sendo depois essa eletricidade distribuída através de uma rede cada vez mais capilar.
+
+Todo o panorama mudou com a entrada das energias renováveis na rede. O número de unidades produtoras disparou, nomeadamente de eólicas e, mais recentemente, de fotovoltaicas. A produção deixou de estar concentrada num número muito reduzido de centrais, para estar distribuída por quase todo o território, em milhares de pontos de injeção, que contam, também, com a pulverização de pequenas unidades de produção fotovoltaica, muitas das quais ligadas a redes de baixa tensão, em zonas residenciais.
+
+As fontes de energia renováveis, com exceção da hídrica, não são despacháveis – não produzem quando queremos, mas antes quando dita a natureza. Assim, a gestão da rede torna-se muito mais desafiante para satisfazer as necessidades da procura, garantir a segurança de abastecimento e evitar falhas generalizadas de eletricidade, alternadas com excessos de produção de energia não utilizada.
+
+A quadratura do círculo só será possível quando a uma oferta variável fizermos corresponder uma procura ajustável. Se não podemos controlar por completo a oferta, temos de flexibilizar a procura.
+
+E como conseguir essa flexibilidade da procura? Com redes elétricas inteligentes e digitalizadas, em que cada equipamento, seja ele um ativo energético de produção, armazenamento ou consumo altere o seu padrão de uso em função da necessidade da rede. Assim, cada equipamento poderá, de forma agregada, “negociar” com a rede a energia de que pode dispor e em que condições. Por exemplo, há que perceber qual o momento ideal para o carregamento de um veículo elétrico ou para o funcionamento de uma bomba de calor.
+
+Vários países europeus estão a desenvolver os mercados de flexibilidade. A 14 de março, a Comissão Europeia publicou o regulamento que atualiza a configuração do mercado elétrico da União, procurando incrementar a flexibilidade dos sistemas energéticos como resposta do lado da procura, com a participação ativa do consumidor final, que passa a ser um agente ativo do sistema elétrico.
+
+Portugal, apesar do mercado incipiente, é um dos países que apresentam elevado potencial. A legislação abre, assim, caminho às soluções de flexibilidade, conforme consta no Decreto-Lei n.º 15/2022, de 14 de janeiro – já revertido no enquadramento regulatório nacional, com várias propostas de regulamentos colocadas em consulta pública pela Entidade Reguladora dos Serviços Energéticos (ERSE), sobre os temas da flexibilidade e da emergência dos mercados locais de energia.
+
+Em Portugal, surgiu também o primeiro projeto-piloto. A E-Redes – principal operador de rede de distribuição em Portugal – lançou o projeto FIRMe, em parceria com a empresa britânica Piclo. O objetivo é testar a flexibilidade, analisar os benefícios, identificar oportunidades e promover novas dinâmicas de mercado, nomeadamente mercados locais de energia com a participação de múltiplos agentes, incluindo o consumidor final.
+
+Assim, quando a rede necessita de auxílio local, por exemplo na gestão de congestionamentos ou na estabilização de perturbações causadas pela variabilidade das fontes renováveis, pode solicitar o apoio de um agente de mercado – por exemplo, um agregador –, que terá a capacidade de atuar nos equipamentos flexíveis de que dispõe. Esse agregador recompensa, então, o consumidor final pela flexibilidade disponibilizada, que deixa, assim, de ser um consumidor passivo e passa a ser um agente ativo do sistema elétrico, ao disponibilizar ao serviço da rede os seus ativos energéticos mediante um conjunto de preferências ou restrições de uso.
+
+São múltiplas as vantagens das novas dinâmicas associadas à flexibilidade do lado da procura para acelerar a transição energética, com abordagens inovadoras que visam a criação de novos mercados energéticos, com múltiplos agentes e valorização de ativos existentes, enquanto minimizam investimentos avultados.
+
+Para que se efetivem, porém, há que existir uma combinação de vontades: do Governo e do regulador – para que produzam enquadramentos legais e regulatórios favoráveis e facilitem o investimento no robustecimento e digitalização das redes elétricas; da Administração Pública – que se quer robustecida e capacitada para dar resposta rápida aos licenciamentos, em consonância com a legislação e a regulamentação em vigor; e dos operadores de rede – que são peça-chave para a operacionalização, possibilitando a interoperabilidade entre os seus sistemas e as plataformas dos agentes de mercado, capazes de gerir e otimizar os múltiplos fluxos energéticos e de informação.
+
+Andreia Carreiro é diretora de inovação estratégica da Cleanwatts. Doutorada em Sistemas Sustentáveis de Energia, foi diretora regional de Energia no Governo dos Açores. É também co-fundadora da empresa Kinergy, integra a organização Future Energy Leaders Portugal e é co-promotora da iniciativa Mulheres na Energia.
+            

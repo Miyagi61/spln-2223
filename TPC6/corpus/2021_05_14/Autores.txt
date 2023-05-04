@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>https://expresso.pt/autores/2021-05-14-Sara-Fevereiro-07071a9d</url>
+            <authors>['Sara Fevereiro']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

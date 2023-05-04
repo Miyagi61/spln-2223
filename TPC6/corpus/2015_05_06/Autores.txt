@@ -1,6 +1,6 @@
 <title>Autores</title>
-            <url>http://expresso.pt/autores/2015-05-06-Cristina-Margato-9f820e90</url>
-            <authors>['Cristina Margato']</authors>
+            <url>https://expresso.pt/autores/2015-05-06-Tiago-Miranda-79bb8918</url>
+            <authors>['Tiago Miranda']</authors>
             Insira o código presente na Revista E
 
 para aceder a conteúdos exclusivos

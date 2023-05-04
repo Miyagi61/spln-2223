@@ -1,0 +1,7 @@
+<title>Autores</title>
+            <url>http://expresso.pt/autores/2015-01-22-Martim-Silva</url>
+            <authors>['Martim Silva']</authors>
+            Insira o código presente na Revista E
+
+para aceder a conteúdos exclusivos
+            

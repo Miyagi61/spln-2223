@@ -31,6 +31,7 @@ if not args.dir:
             files += glob(aux + '/.corpus.txt')   
 else:
     files = glob(args.dir + '/*.txt')
+    print(files)
 
 
 
