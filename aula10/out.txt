@@ -1,0 +1,53 @@
+----------------- Tabela 4 -----------------
+English::Portuguese
+
+animal::m animal
+bird::f ave
+fish::m peixe
+mammal::m mamífero
+reptile::m réptil
+dinosaur::m dinossauro
+
+antler::f galhada
+arm::m braço
+beak::m bico
+bill::m bico
+body::m corpo
+claw::f pata
+fang::f presa
+feather::f pena, f pluma
+feeler::f antena
+fin::f barbatana
+*anal fin::f barbatana anal
+*caudal fin::f barbatana caudal
+*dorsel fin::f barbatana dorsal
+*pectoral fin::f barbatana peitoral
+*pelvic fin::f barbatana pélvica
+flipper::f nadadeira
+fur::f pele
+head::f cabeça
+hide::f pele
+hoof::m casco
+hump::f corcova, f giba
+leg::f pata
+mane::f juba, f criba
+muzzle::m focinho
+nose::m focinho
+paw::f pata, f garra
+pincer::f pinça
+pouch::f bolsa
+scale::f escama
+*fish scale::f escama
+shell::f concha
+skin::f pele
+snout::m focinho
+tail::f cauda
+talon::f garra
+toe::m dedo do pe
+trunk::f tromba
+tusk::f defesa
+udder::f ubre
+whiskers::mpl bigodes
+wing::f asa
+English::Portuguese
+
